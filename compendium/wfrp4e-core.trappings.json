@@ -1,5 +1,15 @@
 {
 	"label": "Trappings",
+	"mapping": { 
+		"qualities": {
+		  "path": "data.qualities.value",
+		  "converter": "trapping_proprties"
+		},
+		"flaws": {
+		  "path": "data.flaws.value",
+		  "converter": "trapping_proprties"
+		}
+	},
 	"entries": [
 		{
 			"id": "Abacus",

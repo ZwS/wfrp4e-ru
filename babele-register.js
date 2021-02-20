@@ -6,5 +6,22 @@ Hooks.once('init', () => {
 			lang: 'ru',
 			dir: 'compendium'
 		});
+		
+		Babele.get().registerConverters({
+			"trapping_proprties": (value) => {
+				if (value) { 
+					var re = /(?<property>[^ ]+)(?<rank> \d+)?/i;
+					return value.split(",")
+							.map(property => {
+								property = property.trim();
+								property = "Trap Blade" ? "TrapBlade" : property;
+
+								var match = re.exec(property);
+								return game.i18n.localize("PROPERTY." + match.groups.property) + (match.groups.rank || "");
+							})
+							.toString();
+				}
+			}
+		});
 	}
 });
