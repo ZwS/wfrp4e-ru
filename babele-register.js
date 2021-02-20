@@ -14,7 +14,7 @@ Hooks.once('init', () => {
 					return value.split(",")
 							.map(property => {
 								property = property.trim();
-								property = "Trap Blade" ? "TrapBlade" : property;
+								property = property == "Trap Blade" ? "TrapBlade" : property;
 
 								var match = re.exec(property);
 								return game.i18n.localize("PROPERTY." + match.groups.property) + (match.groups.rank || "");
