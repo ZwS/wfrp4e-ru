@@ -1,5 +1,5 @@
 {
-	"label": "Talents",
+	"label": "Таланты",
 	"mapping": {
 		"tests": "data.tests.value"
 	},
@@ -335,8 +335,8 @@
 		},
 		{
 			"id": "Frenzy",
-			"name": "Frenzy",
-			"description": "<p>With a Willpower Test, you can work yourself into a state of frenzy by psyching yourself up, howling, biting your shield, or similar. If you succeed, you become subject to Frenzy.</p>\n<p>While subject to Frenzy you are immune to all other psychology, and will not ﬂee or retreat for any reason; indeed you must always move at full rate towards the closest enemy you can see in order to attack. Generally, the only Action you may take is a Weapon Skill Test or an Athletics Test to reach an enemy more quickly. Further, you may take a Free Action Melee Test each Round as you are throwing everything you have into your attacks. Lastly, you gain a bonus of +1 Strength Bonus, such is your ferocity. You remain in Frenzy until all enemies in your line of sight are pacified, or you receive the @Condition[Stunned] or @Condition[Unconscious] condition. After your Frenzy is over you immediately receive a @Condition[Fatigued]<em> </em>condition.</p>"
+			"name": "Бещенство",
+			"description": "<p>С помощью проверки силы воли персонаж может ввести себя в безумную ярость, заводя себя, кусая щит, или иным путем. В случае успеха проверки, персонаж станет бешеным.</p>\n<p>Находящийся в бешенстве, субъект невосприимчив ко всей прочей психологии, а также никогда не сбежит и не отступит по любой причине. Более того, персонаж всегда обязан двигаться на полную дистанцию к ближайшему видимому врагу и атаковать его. Обычного позволяется только действие на проверку навыка рукопашной или атлетики, для максимально быстрого сближения с врагом. Помимо этого, вы можете совершить свободным действием проверку навыка рукопашной каждый раунд, ведь персонаж крушит все вокруг. Вдобавок свирепость персонажа столь велика, что он получает +1 к бонусу силы. Персонаж остается в бешенстве, пока все враги не будут полностью умиротворены, или персонаж не получит состояние @Condition[Ошеломлён] или @Condition[Без сознания]. После окончания бешенства персонаж получает состояние @Condition[Устал].</p>"
 		},
 		{
 			"id": "Frightening",

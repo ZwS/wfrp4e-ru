@@ -1,5 +1,5 @@
 {
-	"label": "Trappings",
+	"label": "Имущество",
 	"mapping": { 
 		"qualities": {
 		  "path": "data.qualities.value",
@@ -18,8 +18,8 @@
 		},
 		{
 			"id": "Ale, Keg",
-			"name": "Эль, бочонок",
-			"description": "<p>Capacity 3 gallons. Empty kegs can be refilled for 18d</p>"
+			"name": "Эль, кег",
+			"description": "<p>Вместимость 3 галлона. Пустой кег можно пополнить за 18 медных.</p>"
 		},
 		{
 			"id": "Ale, pint",
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": "Ball",
-			"name": "Ball",
+			"name": "Мяч",
 			"description": ""
 		},
 		{
@@ -73,7 +73,7 @@
 		},
 		{
 			"id": "Baton ",
-			"name": "Baton ",
+			"name": "Подвязка ",
 			"description": ""
 		},
 		{
@@ -83,8 +83,8 @@
 		},
 		{
 			"id": "Black Lotus",
-			"name": "Black Lotus",
-			"description": "<p>This deadly plant grows in Southland jungles and is used for blade venom. Victims who suffer at least 1 Wound from a sap-coated blade immediately take 2 Poisoned Conditions. Resisted with a <strong>Difficult (–10) Endurance</strong> Test.</p>"
+			"name": "Черный лотос",
+			"description": "<p>Это смертельное растение произрастает в джунглях Южноземья и используется для создания яда. Жертвы, получившие как минимум 1 Рану от покрытого ядом клинка, немедленно получают 2 состояния «Отравленный». Сопротивление яду требует <strong>сложную (–10) проверку Выносливости</strong>.</p>"
 		},
 		{
 			"id": "Blanket",
@@ -93,12 +93,12 @@
 		},
 		{
 			"id": "Blunderbuss",
-			"name": "Blunderbuss",
+			"name": "Мушкет",
 			"description": ""
 		},
 		{
 			"id": "Boat Hook",
-			"name": "Boat Hook",
+			"name": "Багор",
 			"description": ""
 		},
 		{
@@ -123,43 +123,43 @@
 		},
 		{
 			"id": "Book, Apothecary",
-			"name": "Book, Apothecary",
-			"description": "<p>Apothecary books are usually hand-written. A basic apothecary book contains ingredient descriptions and diagrammed instructions for brewing processes. Formulas for Digestive Tonics, Healing Draughts, and Vitality Draughts are usually included (see Herbs and Draughts). Advanced texts contain formulas for more exotic draughts.</p>"
+			"name": "Книга, аптекарское дело",
+			"description": "<p>Аптекарские книги обычно пишутся от руки. Базовая аптекарская книга содержит описания ингредиентов и схематические инструкции для приготовления лекарств. Обычно в тексте можно найти формулы для приготовления пищеварительного тоника, целебного зелья и зелья живучести (см. «Травы и зелья»). Более подробные тексты содержат формулы более экзотических рецептов.</p>"
 		},
 		{
 			"id": "Book, Art",
-			"name": "Book, Art",
-			"description": "<p>Plays, poems, and ballads or perhaps musical arrangements scribbled on loose parchment, Art books come in many forms. They also include treatises on perspective, form, and style, often written by famous painters or sculptors — such as Leonardo da Miragliano — for mass printing&nbsp;</p>"
+			"name": "Книга, искусство",
+			"description": "<p>Пьесы, стихи и баллады или, возможно, музыкальные композиции, написанные на плотном пергаменте. Книги по искусству бывают разных форм. Они также включают в себя трактаты о перспективе, форме и стиле, часто написанные известными художниками или скульпторами (например, Леонардо да Миральяно) для массовой печати.</p>"
 		},
 		{
 			"id": "Book, Cryptography",
-			"name": "Book, Cryptography",
-			"description": "<p>Where individual ciphers and encryption keys can be written on a single page or two, Cryptography books are often hand-scribed codices dealing with mathematics, numerology, and polyalphabetic encryption.</p>"
+			"name": "Книга, криптография",
+			"description": "<p>Если отдельные шифры и ключи шифрования могут быть записаны на одной или двух страницах, книги по криптографии часто представляют собой рукописные кодексы, посвященные математике, нумерологии и полиалфавитному шифрованию.</p>"
 		},
 		{
 			"id": "Book, Engineer",
-			"name": "Book, Engineer",
-			"description": "<p>The majority of engineering books are press-printed. Engineering is an advanced science in the Empire, largely due to the Imperial Engineers’ School in Altdorf and the Dwarf Engineers’ Guild. Because of this, Engineering texts are often authored, co-authored, or edited by Dwarfs.</p>"
+			"name": "Книга, инженерия",
+			"description": "<p>Большинство инженерных книг печатается в прессе. Инженерия является передовой наукой в Империи, в основном благодаря «Имперской инженерной школе» в Альтдорфе и «Дварфийской гильдии инженеров». Из-за этого инженерные тексты часто создаются в соавторстве или под редактурой дварфов.</p>"
 		},
 		{
 			"id": "Book, Law",
-			"name": "Book, Law",
-			"description": "<p>Laws vary considerably from one region to the next. Cities with printing presses compile legislation in bound volumes, whereas judges in smaller towns often rely on documents handwritten centuries ago. Law books used by travelling lawyers or judges often combine printed and written pages from different towns across the Empire, collated and bound together within the same cover</p>"
+			"name": "Книга, закон",
+			"description": "<p>Законы значительно варьируются от одного региона к другому. Города с печатными машинами компилируют законодательство в переплетенные тома, тогда как судьи в небольших городах часто полагаются на документы, написанные от руки несколько веков назад. Юридические книги, используемые путешествующими юристами или судьями, часто имеют печатные и письменные страницы из разных городов Империи, которые объединяются и переплетаются под одной обложкой.</p>"
 		},
 		{
 			"id": "Book, Magic",
-			"name": "Book, Magic",
-			"description": "<p>Spell grimoires are usually scribed by wizards, and their covers are often secured with locks. Sometimes grimoires are even protected by magical alarms or wards. Carrying a spell grimoire is punishable as heresy unless the owning wizard is licensed by the Colleges of Magic.</p>"
+			"name": "Книга, магия",
+			"description": "<p>Гримуары заклинаний обычно пишутся волшебниками, а их обложки часто защищены замками. Иногда гримуары даже защищены магическими ловушками или системами оповещения. Ношение гримуара с заклинаниями расценивается как ересь, если только владелец не лицензирован коллегиями Магии.</p>"
 		},
 		{
 			"id": "Book, Medicine",
-			"name": "Book, Medicine",
-			"description": "<p>Medical texts can either be scribed or press-printed, depending on the authoring physician’s prestige. Illuminations are common, and usually include detailed autopsy drawings and procedural diagrams.</p>"
+			"name": "Книга, медицина",
+			"description": "<p>Медицинские тексты могут быть либо написаны, либо напечатаны, в зависимости от авторитета автора. В них довольно широко охватывается медицинский материал, и обычно они включают в себя подробные чертежи вскрытия и схемы проведения операций.</p>"
 		},
 		{
 			"id": "Book, Religion",
-			"name": "Book, Religion",
-			"description": "<p>Religions books come in all forms in the Empire, a realm renowned for its religious observances. There is an eager market for the most popular texts, most of which are cheaply produced by printing presses.</p>"
+			"name": "Книга, религия",
+			"description": "<p>Книги по религиям входят во все сферы жизни в Империи, государстве, знаменитом своими религиозными обрядами. Существует энергичный рынок самых популярных текстов, большинство из которых задешево печатаются с помощью печатных машин.</p>"
 		},
 		{
 			"id": "Boots",
@@ -173,7 +173,7 @@
 		},
 		{
 			"id": "Bowl",
-			"name": "Bowl",
+			"name": "Тарелка",
 			"description": ""
 		},
 		{
@@ -194,7 +194,7 @@
 		{
 			"id": "Bugman’s XXXXXX Ale, pint ",
 			"name": "Бугманнский XXXXXX эль, пинта ",
-			"description": "<p>Merchants travel across the Old World to purchase this potent Dwarfen ale from the famous brewery founded by Josef Bugman. Bugman’s Ale is distributed to most major cities. One mug of Bugman’s counts as 4 mugs of normal ale for intoxication purposes (see @Item[Consume Alcohol]), and grants immunity to Fear Tests for 1d10 hours.</p>"
+			"description": "<p>Чтобы купить этот крепчайший дварфийский эль знаменитой пивоварни, основанной Йозефом Багманом торговцы пересекают весь Старый Свет. Эль Багмана распространен в большинстве крупных городов. Одна кружка эля Багмана считается 4 кружками нормального эля для целей интоксикации (см. @Item[Кутёж]) и дает иммунитет к проверкам страха на 1d10 часов.</p>"
 		},
 		{
 			"id": "Bullet and Powder",
@@ -203,23 +203,23 @@
 		},
 		{
 			"id": "Candle",
-			"name": "Свечка",
-			"description": "<p>Provides illumination for 10 yards when lit.</p>"
+			"name": "Свеча",
+			"description": "<p>Обеспечивает освещение в пределах 10 ярдов.</p>"
 		},
 		{
 			"id": "Canvas Tarp",
-			"name": "Canvas Tarp",
+			"name": "Брезентовый холст",
 			"description": ""
 		},
 		{
 			"id": "Cart",
 			"name": "Телега",
-			"description": "<p>One driver and one draft animal required.</p>"
+			"description": "<p>Один кучер и запряжена одна лошадь.</p>"
 		},
 		{
 			"id": "Cask",
-			"name": "Cask",
-			"description": "<p>Capacity: 10 gallons of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Бочонок",
+			"description": "<p>Вместимость: 10 галлонов жидкости.</p>"
 		},
 		{
 			"id": "Cavalry Hammer",
@@ -233,7 +233,7 @@
 		},
 		{
 			"id": "Charcoal stick",
-			"name": "Charcoal stick",
+			"name": "Древесный уголь",
 			"description": ""
 		},
 		{
@@ -243,7 +243,7 @@
 		},
 		{
 			"id": "Chisel",
-			"name": "Chisel",
+			"name": "Долото",
 			"description": ""
 		},
 		{
@@ -259,7 +259,7 @@
 		{
 			"id": "Coach",
 			"name": "Карета",
-			"description": "<p>Two drivers and four horses are standard.</p>"
+			"description": "<p>Два кучера и запряжены обычно четыре лошади.</p>"
 		},
 		{
 			"id": "Coat",
@@ -268,18 +268,18 @@
 		},
 		{
 			"id": "Comb",
-			"name": "Гребень",
+			"name": "Расческа",
 			"description": ""
 		},
 		{
 			"id": "Cooking Pot",
-			"name": "Cooking Pot",
+			"name": "Кастрюля",
 			"description": ""
 		},
 		{
 			"id": "Coracle",
-			"name": "Coracle",
-			"description": "<p>Coracles are small, lightweight boats that accommodate one person and can be carried easily. They are made from leather or bark stretched over a wood frame, and rowed with a single oar.</p>"
+			"name": "Коракл",
+			"description": "<p>Это небольшие, легкие лодки, которые вмещают одного человека и могут легко переноситься. Они сделаны из кожи или коры, натянутой на деревянную раму, и используют одно весло.</p>"
 		},
 		{
 			"id": "Costume",
@@ -288,8 +288,8 @@
 		},
 		{
 			"id": "Courtly Garb ",
-			"name": "Courtly Garb ",
-			"description": "<p>Nobles’ garb features embellishments such as lace cuffs &amp; collars, excessive high-quality fabric and pointed shoes. Servants also wear courtly garb to banquets and ceremonies, although their surcoats and corsets are less ostentatious than the nobles’ fashions and can therefore be purchased at half price.&nbsp;</p>"
+			"name": "Изысканный наряд",
+			"description": "<p>Одежда знати украшена такими элементами, как кружевные манжеты и воротники, высококачественная ткань и остроконечные туфли. Слуги также носят изысканную одежду во время банкетов и церемоний, хотя их кафтаны и ливреи менее вычурны, чем одежда дворян, и поэтому они могут быть куплены за полцены.</p>"
 		},
 		{
 			"id": "Crossbow",
@@ -303,12 +303,12 @@
 		},
 		{
 			"id": "Crowbar",
-			"name": "Crowbar",
+			"name": "Лом",
 			"description": ""
 		},
 		{
 			"id": "Crutch",
-			"name": "Crutch",
+			"name": "Костыль",
 			"description": ""
 		},
 		{
@@ -343,8 +343,8 @@
 		},
 		{
 			"id": "Destrier",
-			"name": "Destrier",
-			"description": "<p>Horse trained for war.</p>"
+			"name": "Боевая лошадь",
+			"description": "<p>Лошадь, тренированная для войны.</p>"
 		},
 		{
 			"id": "Dice",
@@ -358,8 +358,8 @@
 		},
 		{
 			"id": "Disguise Kit",
-			"name": "Disguise Kit",
-			"description": "<p>Contains enough props for four disguises (e.g. wigs and make-up) and also materials for changing your appearance used by those with the Entertain (Acting) Skill (e.g. wax, fake blood, and prosthetics).</p>"
+			"name": "Комплект для маскировки",
+			"description": "<p>Содержит достаточное количество реквизита для четырех маскировок (например, парики и макияж), а также материалы для изменения вашего внешнего вида, используемые теми, кто обладает умением Артистизм (актер) (например, воск, поддельная кровь и протезы).</p>"
 		},
 		{
 			"id": "Dog collar and lead",
@@ -373,12 +373,12 @@
 		},
 		{
 			"id": "Draught Horse",
-			"name": "Draught Horse",
+			"name": "Ломовая лошадь",
 			"description": ""
 		},
 		{
 			"id": "Ear Pick",
-			"name": "Ear Pick",
+			"name": "Ушная затычка",
 			"description": ""
 		},
 		{
@@ -408,7 +408,7 @@
 		},
 		{
 			"id": "Face Powder",
-			"name": "Face Powder",
+			"name": "Пудра для лица",
 			"description": ""
 		},
 		{
@@ -429,7 +429,7 @@
 		{
 			"id": "Fish Hooks",
 			"name": "Рыболовные крючки",
-			"description": "<p>Can be used to catch fish (see Gathering Food and Herbs)</p>"
+			"description": "<p>Используется для поимки рыбы (см. «Поиск пропитания и сбор трав»).</p>"
 		},
 		{
 			"id": "Flail",
@@ -438,8 +438,8 @@
 		},
 		{
 			"id": "Flask",
-			"name": "Flask",
-			"description": "<p>Capacity: 1 pint of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Флакон",
+			"description": "<p>Вместимость: 1 пинта жидкости.</p>"
 		},
 		{
 			"id": "Flask of Spirits",
@@ -448,7 +448,7 @@
 		},
 		{
 			"id": "Floor Brush",
-			"name": "Floor Brush",
+			"name": "Щетка для пола",
 			"description": ""
 		},
 		{
@@ -458,12 +458,12 @@
 		},
 		{
 			"id": "Food, groceries/day",
-			"name": "Food, groceries/day",
+			"name": "Продукты питания, бакалея / день",
 			"description": ""
 		},
 		{
 			"id": "Gavel",
-			"name": "Gavel",
+			"name": "Молоток судьи",
 			"description": ""
 		},
 		{
@@ -473,7 +473,7 @@
 		},
 		{
 			"id": "Gloves",
-			"name": "Gloves",
+			"name": "Перчатки",
 			"description": ""
 		},
 		{
@@ -498,8 +498,8 @@
 		},
 		{
 			"id": "Guild License",
-			"name": "Guild License",
-			"description": "<p>Guild licenses are usually printed on single sheets of parchment, stamped with an official seal, and signed by the local guild master. Guild licenses are not purchased; instead, they are granted to guild members according to each guild’s traditions and laws.</p>"
+			"name": "Лицензия гильдии",
+			"description": "<p>Лицензии гильдий обычно печатаются на отдельных листах пергамента, скрепляются официальной печатью и подписываются мастером местной гильдии. Лицензии гильдий нельзякупить, а вместо этого они предоставляются членам гильдии в соответствии с традициями и законами каждой гильдии.</p>"
 		},
 		{
 			"id": "Halberd",
@@ -513,7 +513,7 @@
 		},
 		{
 			"id": "Hand Mirror",
-			"name": "Hand Mirror",
+			"name": "Ручное зеркало",
 			"description": ""
 		},
 		{
@@ -529,7 +529,7 @@
 		{
 			"id": "Hat",
 			"name": "Шляпа",
-			"description": "<p>Fine quality hats are status symbols in the Empire’s towns and cities. The more ﬂamboyant the hat, the better.</p>"
+			"description": "<p>Шляпы высокого качества являются символами статуса в городах Империи. Чем ярче шляпа, тем лучше.</p>"
 		},
 		{
 			"id": "Healing Draught",
@@ -543,8 +543,8 @@
 		},
 		{
 			"id": "Heartkill",
-			"name": "Heartkill",
-			"description": "<p>Combining the venoms from an Amphisbaena (a rare, two-headed serpent) and a Jabberslythe produces an odorless, colorless poison. When ingested, the deadly mixture inﬂicts 4 Poisoned Conditions. Resisted with a <strong>Difficult (–10) Endurance</strong> Test.</p>"
+			"name": "Сердцебой",
+			"description": "<p>Сочетание ядов амфизбаэны (редкого двуглавого змея) и джебберслита дает бесцветный яд без запаха. При попадании внутрь смертельная смесь накладывает 4 состояния «Отравленный». Сопротивление яду требует <strong>сложную (-10) проверку Difficult (–10) выносливости</strong>.</p>"
 		},
 		{
 			"id": "Heavy Crossbow",
@@ -563,22 +563,22 @@
 		},
 		{
 			"id": "Homing Pigeon",
-			"name": "Homing Pigeon",
+			"name": "Домашние голуби",
 			"description": ""
 		},
 		{
 			"id": "Hood",
-			"name": "Hood",
+			"name": "Капюшон",
 			"description": ""
 		},
 		{
 			"id": "Hook",
 			"name": "Hook",
-			"description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">You have a hook strapped where you used to have a hand. A surprisingly nimble tool once you are used to it, you can buy back the –20 penalty on all Tests involving two hands for 100 XP per 5 you subtract from the penalty, removing the penalty completely for 400 XP. </span><strong><span style=\"color: #231f20;\">Append</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In Close Combat, a Hook counts as a Dagger</span></p>"
+			"description": "<p><span style=\"color: #231f20;\">You have a hook strapped where you used to have a hand. A surprisingly nimble tool once you are used to it, you can buy back the –20 penalty on all Tests involving two hands for 100 XP per 5 you subtract from the penalty, removing the penalty completely for 400 XP. </span><strong><span style=\"color: #231f20;\">Append</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In Close Combat, a Hook counts as a Dagger</span></p>"
 		},
 		{
 			"id": "Hunting Dog",
-			"name": "Hunting Dog",
+			"name": "Охотничья собака",
 			"description": ""
 		},
 		{
@@ -608,22 +608,17 @@
 		},
 		{
 			"id": "Jewellry",
-			"name": "Jewellry",
-			"description": "<p>Prices vary by craftsmanship, metal type, and gem value. As a general guideline, common rings without any gemstones cost 10 coins equal to their metal type (i.e. brass, silver or gold) whereas necklaces cost 20 coins of the same metal type</p>"
+			"name": "Ювелирные изделия",
+			"description": "<p>Цены варьируются в зависимости от качества, типа металла и стоимости драгоценных камней. Как правило, обычные кольца без каких-либо драгоценных камней стоят 10 монет, равных их типу металла (то есть медь, серебро или золото), тогда как ожерелья стоят 20 монет аналогичного металла.</p>"
 		},
 		{
 			"id": "Jug",
-			"name": "Jug",
-			"description": "<p>Capacity: 1 gallon of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Кувшин",
+			"description": "<p>Вместимость: 1 галлон жидкости.</p>"
 		},
 		{
 			"id": "Key",
-			"name": "Key",
-			"description": ""
-		},
-		{
-			"id": "Knife",
-			"name": "Knife",
+			"name": "Ключ",
 			"description": ""
 		},
 		{
@@ -663,7 +658,7 @@
 		},
 		{
 			"id": "Leaflet",
-			"name": "Leaflet",
+			"name": "Листовка",
 			"description": ""
 		},
 		{
@@ -688,18 +683,18 @@
 		},
 		{
 			"id": "Legal Document",
-			"name": "Legal Document",
-			"description": "<p>A simple legal document such as a will, IOU or letter of intent.</p>"
+			"name": "Юридический документ",
+			"description": "<p>Простой юридический документ, такой как завещание, долговая расписка или соглашение о намерениях.</p>"
 		},
 		{
 			"id": "Light Warhorse",
-			"name": "Light Warhorse",
+			"name": "Дегкая боевая лошадь",
 			"description": ""
 		},
 		{
 			"id": "Lock Picks",
 			"name": "Отмычки",
-			"description": "<p>An assortment of small, variously-shaped tools needed to use the Pick Lock Skill without penalty.&nbsp;</p>"
+			"description": "<p>Набор небольших инструментов различной формы, необходимых для использования умения Взлом без штрафа.</p>"
 		},
 		{
 			"id": "Longbow",
@@ -708,8 +703,8 @@
 		},
 		{
 			"id": "Mad Cap Mushrooms",
-			"name": "Mad Cap Mushrooms",
-			"description": "<p>These hallucinogenic mushrooms are eaten by Goblin fanatics before battle. They induce a berserker rage, adding +10 Strength, +4 Wounds, and the Frenzy Talent. When the effect wears off, the user loses 1d10 Wounds. Non-Greenskins must also pass a <strong>Challenging (+0) Endurance Test</strong> or contract a Minor Infection. <strong>Duration</strong>: Active when chewed plus an additional 2d10 minutes.</p>"
+			"name": "Сумасшедшие грибы",
+			"description": "<p>Эти галлюциногенные грибы едят фанатики-гоблины перед битвой. Они вызывают ярость берсерка, добавляя +10 к силе, +4 к ранам и талант «Бешенство». Когда эффект проходит, пользователь теряет 1d10 ран. Лица, не являющиеся зеленокожими, должны также пройти <strong>серьезную (+0) проверку выносливости</strong> или получат малую инфекцию. <strong>Длительность</strong>: Активизируется при разжевывании плюс дополнительные 2d10 минут.</p>"
 		},
 		{
 			"id": "Mail Chausses",
@@ -738,8 +733,8 @@
 		},
 		{
 			"id": "Manacles",
-			"name": "Manacles",
-			"description": "<p>Prisoners trying to break out of manacles suffer 1 Wound and must pass a Very Hard (-30) Strength Test.</p>"
+			"name": "Наручники",
+			"description": "<p>Заключенные, пытающиеся вырваться из наручников, получают 1 Рану и должны пройти очень трудную (-30) проверку силы.</p>"
 		},
 		{
 			"id": "Mandrake Root",
@@ -748,12 +743,12 @@
 		},
 		{
 			"id": "Map",
-			"name": "Map",
+			"name": "Карта",
 			"description": ""
 		},
 		{
 			"id": "Mask",
-			"name": "Mask",
+			"name": "Маска",
 			"description": ""
 		},
 		{
@@ -763,7 +758,7 @@
 		},
 		{
 			"id": "Meal, inn",
-			"name": "Meal, inn",
+			"name": "Питание, гостиница",
 			"description": ""
 		},
 		{
@@ -773,7 +768,7 @@
 		},
 		{
 			"id": "Monkey",
-			"name": "Monkey",
+			"name": "Обезьяна",
 			"description": ""
 		},
 		{
@@ -783,13 +778,13 @@
 		},
 		{
 			"id": "Mop",
-			"name": "Mop",
+			"name": "Швабра",
 			"description": ""
 		},
 		{
 			"id": "Mule",
-			"name": "Mule",
-			"description": "<p>Horse trained for war.</p>"
+			"name": "Мул",
+			"description": ""
 		},
 		{
 			"id": "Nails ",
@@ -803,7 +798,7 @@
 		},
 		{
 			"id": "Paint Brush",
-			"name": "Paint Brush",
+			"name": "Кисть",
 			"description": ""
 		},
 		{
@@ -813,33 +808,28 @@
 		},
 		{
 			"id": "Parchment/sheet",
-			"name": "Parchment/sheet",
+			"name": "Пергамент/лист",
 			"description": ""
 		},
 		{
 			"id": "Perfume",
-			"name": "Perfume",
+			"name": "Духи",
 			"description": ""
 		},
 		{
 			"id": "Pestle & Mortar",
-			"name": "Pestle & Mortar",
+			"name": "Пестик и ступка",
 			"description": ""
 		},
 		{
 			"id": "Pewter Stein",
-			"name": "Pewter Stein",
-			"description": "<p>Beer mug/tankard made of pewter</p>\n<p>&nbsp;</p>"
-		},
-		{
-			"id": "Pick",
-			"name": "Pick",
+			"name": "Пивная кружка",
 			"description": ""
 		},
 		{
 			"id": "Pick",
 			"name": "Кирка",
-			"description": null
+			"description": ""
 		},
 		{
 			"id": "Pike",
@@ -848,7 +838,7 @@
 		},
 		{
 			"id": "Pins",
-			"name": "Pins",
+			"name": "Булавки",
 			"description": ""
 		},
 		{
@@ -898,17 +888,17 @@
 		},
 		{
 			"id": "Pole (3 yards)",
-			"name": "Pole (3 yards)",
-			"description": "<p>A long pole used for barging; counts as an @Compendium[wfrp4e-core.trappings.mRU10yAWWWs5WoKt]{Improvised Weapon}</p>"
+			"name": "Шест (3 ярда)",
+			"description": "<p>Длинный шест, используемый для плаванья на барже; считается  @Compendium[wfrp4e-core.trappings.mRU10yAWWWs5WoKt]{импровизированным оружием}.</p>"
 		},
 		{
 			"id": "Pony",
-			"name": "Pony",
+			"name": "Пони",
 			"description": ""
 		},
 		{
 			"id": "Pouch",
-			"name": "Pouch",
+			"name": "Кошелёк",
 			"description": ""
 		},
 		{
@@ -918,7 +908,7 @@
 		},
 		{
 			"id": "Quill Pen",
-			"name": "Quill Pen",
+			"name": "Перьевая ручка",
 			"description": ""
 		},
 		{
@@ -928,7 +918,7 @@
 		},
 		{
 			"id": "Rake",
-			"name": "Rake",
+			"name": "Грабли",
 			"description": ""
 		},
 		{
@@ -943,17 +933,17 @@
 		},
 		{
 			"id": "Rations, 1 day",
-			"name": "Rations, 1 day",
+			"name": "Рационы, 1 день",
 			"description": ""
 		},
 		{
 			"id": "Reading Lens",
-			"name": "Reading Lens",
-			"description": "<p>Glass lenses with handles provide a +20 bonus to Read/Write Tests for deciphering tiny or unintelligible writing. Perception Tests to search for fine details such as secret doors or compartments also receive a +20 bonus</p>"
+			"name": "Линзы для чтения",
+			"description": "<p>Стеклянные линзы с ручками обеспечивают бонус +20 бонус к проверкам грамотности для расшифровки крошечных или неразборчивых записей. Проверки Наблюдательности для поиска мелких деталей, таких как секретные двери или тайники, также получают бонус +20.</p>"
 		},
 		{
 			"id": "Religious Symbol",
-			"name": "Religious Symbol",
+			"name": "Религиозный символ",
 			"description": ""
 		},
 		{
@@ -968,17 +958,17 @@
 		},
 		{
 			"id": "Riding Horse",
-			"name": "Riding Horse",
+			"name": "Ездовая лошадь",
 			"description": ""
 		},
 		{
 			"id": "River Barge",
-			"name": "River Barge",
-			"description": "<p>Three crew are standard.</p>"
+			"name": "Речная баржа",
+			"description": "<p>Обычно требуется три члена экипажа.</p>"
 		},
 		{
 			"id": "Robes",
-			"name": "Robes",
+			"name": "Роба",
 			"description": ""
 		},
 		{
@@ -988,13 +978,13 @@
 		},
 		{
 			"id": "Room, common/night",
-			"name": "Room, common/night",
-			"description": "<p>Guests sleeping in common rooms should be wary of thieves.</p>"
+			"name": "Комната, общая / ночь",
+			"description": "<p>Гости, спящие в общих комнатах, должны опасаться воров.</p>"
 		},
 		{
 			"id": "Room, private/night",
-			"name": "Room, private/night",
-			"description": "<p>Accommodates 2 guests. Large rooms cost double the price and accommodate 4 guests.</p>"
+			"name": "Комната, индивидуальная / ночь",
+			"description": "<p>Вмещает 2 посетителей. Большие номера стоят вдвое дороже и рассчитаны на 4 посетителей.</p>"
 		},
 		{
 			"id": "Rope, 10 yards",
@@ -1003,27 +993,27 @@
 		},
 		{
 			"id": "Row Boat",
-			"name": "Row Boat",
-			"description": "<p>One rower is standard.</p>"
+			"name": "Гребнная лодка",
+			"description": "<p>Обычно требуется один гребец.</p>"
 		},
 		{
 			"id": "Sack",
-			"name": "Sack",
-			"description": "<p>Requires 1 hand to carry.</p>"
+			"name": "Мешок",
+			"description": "<p>Требует одну руку для переноски.</p>"
 		},
 		{
 			"id": "Sack, Large",
-			"name": "Sack, Large",
-			"description": "<p>Requires 1 hand to carry (or 2 hands if full).</p>"
+			"name": "Мешок, большой",
+			"description": "<p>Требует одну руку для переноски (или две, если полный).</p>"
 		},
 		{
 			"id": "Saddle and Harness",
-			"name": "Saddle and Harness",
+			"name": "Седло и упряжь",
 			"description": ""
 		},
 		{
 			"id": "Saddlebags",
-			"name": "Saddlebags",
+			"name": "Седельный вьюк",
 			"description": ""
 		},
 		{
@@ -1033,18 +1023,18 @@
 		},
 		{
 			"id": "Saw",
-			"name": "Saw",
+			"name": "Пила",
 			"description": ""
 		},
 		{
 			"id": "Scepter",
-			"name": "Scepter",
-			"description": "<p>The highest-ranking legal officials carry scepters to indicate their status.</p>"
+			"name": "Скипетр",
+			"description": "<p>Высокопоставленные чиновники носят скипетры, чтобы указать свой статус.</p>"
 		},
 		{
 			"id": "Scroll Case",
-			"name": "Scroll Case",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Тубус",
+			"description": ""
 		},
 		{
 			"id": "Shield",
@@ -1063,7 +1053,7 @@
 		},
 		{
 			"id": "Shoes",
-			"name": "Shoes",
+			"name": "Туфли",
 			"description": ""
 		},
 		{
@@ -1073,13 +1063,13 @@
 		},
 		{
 			"id": "Sickle",
-			"name": "Sickle",
+			"name": "Серп",
 			"description": ""
 		},
 		{
 			"id": "Signet Ring",
-			"name": "Signet Ring",
-			"description": "<p>&nbsp;</p>\n<p>Gold rings with engraved stamps are worn by nobles and guild officials, who use them to imprint heraldry or insignia into sealing wax.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Кольцо с печаткой",
+			"description": "<p>Золотые кольца с гравированными печатями носят дворяне и главы гильдии, которые используют их для скрепления печатей геральдикой или знаками отличия.</p>"
 		},
 		{
 			"id": "Silver Shilling",
@@ -1093,8 +1083,8 @@
 		},
 		{
 			"id": "Sling Bag",
-			"name": "Sling Bag",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Заплечная сумка",
+			"description": "<p>Считается «надетым», когда перекинута через плечо.</p>"
 		},
 		{
 			"id": "Small shot and Powder",
@@ -1103,7 +1093,7 @@
 		},
 		{
 			"id": "Spade",
-			"name": "Spade",
+			"name": "Лопата",
 			"description": ""
 		},
 		{
@@ -1113,7 +1103,7 @@
 		},
 		{
 			"id": "Spike",
-			"name": "Spike",
+			"name": "Клин",
 			"description": ""
 		},
 		{
@@ -1128,7 +1118,7 @@
 		},
 		{
 			"id": "Stables/night",
-			"name": "Stables/night",
+			"name": "Конюшни / ночь",
 			"description": ""
 		},
 		{
@@ -1138,7 +1128,7 @@
 		},
 		{
 			"id": "Stamp, engraved",
-			"name": "Stamp, engraved",
+			"name": "Печать с гравировкой",
 			"description": ""
 		},
 		{
@@ -1188,17 +1178,17 @@
 		},
 		{
 			"id": "Tongs, steel",
-			"name": "Tongs, steel",
+			"name": "Стальные щипцы",
 			"description": ""
 		},
 		{
 			"id": "Trade Tools (Type)",
-			"name": "Trade Tools (Type)",
-			"description": "<p><strong>Apothecary</strong>: Tools include pestle and mortar, spoons, jars, and weights and scales. Workshops also include oil burners and shelves full of ingredients.</p>\n<p>&nbsp;</p>\n<p><strong>Artisan</strong>: The potential range of tools used by Artisans is wide.</p>\n<p>Sample packages include:</p>\n<ul type=\"disc\">\n<li><strong>Carpenter</strong>: Hammer and nails, saw, measuring rod, chalk, and plumb lines. Workshops also include lathes, planes, clamps, and a supply of lumber.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Engraver</strong>: Gravers, punches, wax, acid, hammer, and chisels. Workshops also include dies and presses.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Smith</strong>: Hammer, tongs, punches, swages, bits, and augers. Workshops also include an anvil, furnace, swage block, sledgehammers, and metal ingots.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Other Artisans include: Armorer, Bowyer, Brewer, Candlemaker, Calligrapher, Cartographer, Cobbler, Cook, Cooper, Embalmer, Gem Cutter, Glassblower, Goldsmith, Gunsmith, Jeweler, Leatherworker, Mason, Painter, Potter, Shipwright, Stoneworker, Tailor, Tanner, Vintner, Weaver, Weaponsmith and Woodcarver.</p>\n<p>&nbsp;</p>\n<p><strong>Artist</strong>: Brushes and paints, hammer and chisels, rasps and files, and scrapers. Workshops also include easels or pedestals and supplies of canvas, parchment, vellum, wood, clay or uncut stone.</p>\n<p><strong>Engineer</strong>: Hourglass, measuring rod, fuse cord, drafting compass, and T-square. Workshops also include pulleys, ropes, and drafting tables.</p>\n<p><strong>Herbalist</strong>: Pestle and mortar, small knives, pruning shears, and gloves. Workshops also include drying racks, strainers, funnels, bowls, and jars.</p>\n<p><strong>Navigator</strong>: Quadrant, astrolabe, charts and compasses, hourglass, and sounding line.</p>\n<p><strong>Physician</strong>: Needles and sutures, bandages, scalpel, vinegar, forceps, and a speculum. Workshops also include anatomical drawings, assorted implements, and a surgery table.&nbsp;</p>"
+			"name": "Ремесленные инструменты (Тип)",
+			"description": "<p><strong>Аптекарь</strong>: Инструменты включают пестик и ступку, ложки, банки, а также гирьки и весы. Мастерские также включают в себя масляные горелки и полки, полные ингредиентов.</p>\n<p>&nbsp;</p>\n<p><strong>Мастеровой</strong>: Потенциальный диапазон инструментов, используемых Мастеровыми, широк.</p>\n<p>Примеры включают в себя:</p>\n<ul type=\"disc\">\n<li><strong>Плотник</strong>: Молоток и гвозди, пила, линейка, мел и мерило. Мастерские также оснащены токарными станками, рубанками, зажимами и запасами пиломатериалов.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Гравировщик</strong>: Граверы, штемпели, воск, кислота, молоток и зубила. Мастерские также оснащены штампами и прессами.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Кузнец</strong>: Молоток, щипцы, штамповочный молот, обжимки, биты и шнеки. Мастерские также оснащены наковальнями, печами, обжимными блоками, кувалдами и металлическими слитками.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Прочие Мастеровые ремесленники: штурман, целитель, бронник, лучный мастер, пивовар, свечник, каллиграф, картограф, сапожник, повар, бондарь, бальзамировщик, огранщик, стеклодув, золотых дел мастер, ружейник, ювелир, кожевник, каменотес, маляр, гончар, судостроитель, каменщик, портной, дубильщик, винодел, ткач, оружейник, резчик по дереву.</p>\n<p>&nbsp;</p>\n<p><strong>Художник</strong>: Кисти и краски, молоток и зубила, напильники, пилочки и скребки. Мастерские также включают мольберты или пьедесталы и запасы холста, пергамента, кальки, дерева, глины или необработанного камня.</p>\n<p><strong>Инженер</strong>: Песочные часы, измерительная линейка, фитиль, чертежный компас и рейсшина. Мастерские обладают шкивами, канатами и чертежными столами.</p>\n<p><strong>Травник</strong>: Пестик и ступка, маленькие ножи, секаторы и перчатки. Мастерские также включают сушильные стеллажи, сита, воронки, миски и банки.</p>\n<p><strong>Штурман</strong>: Квадрант, астролябия, диаграммы и компасы, песочные часы и глубокомер.</p>\n<p><strong>Целитель</strong>: Иглы и нитки, бинты, скальпель, уксус, щипцы и расширитель. Мастерские также оснащены анатомическими набросками, различными инструментами и операционными столами.</p>"
 		},
 		{
 			"id": "Tweezers",
-			"name": "Tweezers",
+			"name": "Пинцет",
 			"description": ""
 		},
 		{
@@ -1208,7 +1198,7 @@
 		},
 		{
 			"id": "Uniform",
-			"name": "Uniform",
+			"name": "Униформа",
 			"description": ""
 		},
 		{
@@ -1218,13 +1208,13 @@
 		},
 		{
 			"id": "Wagon",
-			"name": "Wagon",
-			"description": "<p>One driver and two horses are standard .</p>"
+			"name": "Фургон",
+			"description": "<p>Один кучер и запряжены обычно две лошади.</p>"
 		},
 		{
 			"id": "Walking Cane",
-			"name": "Walking Cane",
-			"description": "<p>Polished wooden canes with metal caps are status symbols amongst wealthier townsfolk.</p>"
+			"name": "Прогулочная трость",
+			"description": "<p>Отплированная деревянная трость с металической ручкой является символом подчеркивающим статус среди богатых жителей городов.</p>"
 		},
 		{
 			"id": "Warhammer",
@@ -1233,8 +1223,8 @@
 		},
 		{
 			"id": "Waterskin",
-			"name": "Waterskin",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Бурдюк",
+			"description": "<p>Вместимость: 1 галлон жидкости.</p>"
 		},
 		{
 			"id": "Weirdroot",
@@ -1248,7 +1238,7 @@
 		},
 		{
 			"id": "Wine & Spirits, drink",
-			"name": "Wine & Spirits, drink",
+			"name": "Вино и спиртные напитки, питье",
 			"description": ""
 		},
 		{
@@ -1263,17 +1253,17 @@
 		},
 		{
 			"id": "Workshop (Type)",
-			"name": "Workshop (Type)",
-			"description": "<p><strong>Apothecary</strong>: Tools include pestle and mortar, spoons, jars, and weights and scales. Workshops also include oil burners and shelves full of ingredients.</p>\n<p>&nbsp;</p>\n<p><strong>Artisan</strong>: The potential range of tools used by Artisans is wide.</p>\n<p>Sample packages include:</p>\n<ul type=\"disc\">\n<li><strong>Carpenter</strong>: Hammer and nails, saw, measuring rod, chalk, and plumb lines. Workshops also include lathes, planes, clamps, and a supply of lumber.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Engraver</strong>: Gravers, punches, wax, acid, hammer, and chisels. Workshops also include dies and presses.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Smith</strong>: Hammer, tongs, punches, swages, bits, and augers. Workshops also include an anvil, furnace, swage block, sledgehammers, and metal ingots.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Other Artisans include: Armorer, Bowyer, Brewer, Candlemaker, Calligrapher, Cartographer, Cobbler, Cook, Cooper, Embalmer, Gem Cutter, Glassblower, Goldsmith, Gunsmith, Jeweler, Leatherworker, Mason, Painter, Potter, Shipwright, Stoneworker, Tailor, Tanner, Vintner, Weaver, Weaponsmith and Woodcarver.</p>\n<p>&nbsp;</p>\n<p><strong>Artist</strong>: Brushes and paints, hammer and chisels, rasps and files, and scrapers. Workshops also include easels or pedestals and supplies of canvas, parchment, vellum, wood, clay or uncut stone.</p>\n<p><strong>Engineer</strong>: Hourglass, measuring rod, fuse cord, drafting compass, and T-square. Workshops also include pulleys, ropes, and drafting tables.</p>\n<p><strong>Herbalist</strong>: Pestle and mortar, small knives, pruning shears, and gloves. Workshops also include drying racks, strainers, funnels, bowls, and jars.</p>\n<p><strong>Navigator</strong>: Quadrant, astrolabe, charts and compasses, hourglass, and sounding line.</p>\n<p><strong>Physician</strong>: Needles and sutures, bandages, scalpel, vinegar, forceps, and a speculum. Workshops also include anatomical drawings, assorted implements, and a surgery table.&nbsp;</p>"
+			"name": "Мастерская (Тип)",
+			"description": "<p><strong>Аптекарь</strong>: Инструменты включают пестик и ступку, ложки, банки, а также гирьки и весы. Мастерские также включают в себя масляные горелки и полки, полные ингредиентов.</p>\n<p>&nbsp;</p>\n<p><strong>Мастеровой</strong>: Потенциальный диапазон инструментов, используемых Мастеровыми, широк.</p>\n<p>Примеры включают в себя:</p>\n<ul type=\"disc\">\n<li><strong>Плотник</strong>: Молоток и гвозди, пила, линейка, мел и мерило. Мастерские также оснащены токарными станками, рубанками, зажимами и запасами пиломатериалов.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Гравировщик</strong>: Граверы, штемпели, воск, кислота, молоток и зубила. Мастерские также оснащены штампами и прессами.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Кузнец</strong>: Молоток, щипцы, штамповочный молот, обжимки, биты и шнеки. Мастерские также оснащены наковальнями, печами, обжимными блоками, кувалдами и металлическими слитками.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Прочие Мастеровые ремесленники: штурман, целитель, бронник, лучный мастер, пивовар, свечник, каллиграф, картограф, сапожник, повар, бондарь, бальзамировщик, огранщик, стеклодув, золотых дел мастер, ружейник, ювелир, кожевник, каменотес, маляр, гончар, судостроитель, каменщик, портной, дубильщик, винодел, ткач, оружейник, резчик по дереву.</p>\n<p>&nbsp;</p>\n<p><strong>Художник</strong>: Кисти и краски, молоток и зубила, напильники, пилочки и скребки. Мастерские также включают мольберты или пьедесталы и запасы холста, пергамента, кальки, дерева, глины или необработанного камня.</p>\n<p><strong>Инженер</strong>: Песочные часы, измерительная линейка, фитиль, чертежный компас и рейсшина. Мастерские обладают шкивами, канатами и чертежными столами.</p>\n<p><strong>Травник</strong>: Пестик и ступка, маленькие ножи, секаторы и перчатки. Мастерские также включают сушильные стеллажи, сита, воронки, миски и банки.</p>\n<p><strong>Штурман</strong>: Квадрант, астролябия, диаграммы и компасы, песочные часы и глубокомер.</p>\n<p><strong>Целитель</strong>: Иглы и нитки, бинты, скальпель, уксус, щипцы и расширитель. Мастерские также оснащены анатомическими набросками, различными инструментами и операционными столами.</p>"
 		},
 		{
 			"id": "Worms",
-			"name": "Worms",
+			"name": "Черви",
 			"description": ""
 		},
 		{
 			"id": "Writing Kit",
-			"name": "Writing Kit",
+			"name": "Комплект для письма",
 			"description": ""
 		},
 		{
