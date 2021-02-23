@@ -194,7 +194,7 @@
 		{
 			"id": "Bugman’s XXXXXX Ale, pint ",
 			"name": "Бугманнский XXXXXX эль, пинта ",
-			"description": "<p>Чтобы купить этот крепчайший дварфийский эль знаменитой пивоварни, основанной Йозефом Багманом торговцы пересекают весь Старый Свет. Эль Багмана распространен в большинстве крупных городов. Одна кружка эля Багмана считается 4 кружками нормального эля для целей интоксикации (см. @Item[Кутёж]) и дает иммунитет к проверкам страха на 1d10 часов.</p>"
+			"description": "<p>Чтобы купить этот крепчайший дварфийский эль знаменитой пивоварни, основанной Йозефом Багманом торговцы пересекают весь Старый Свет. Эль Багмана распространен в большинстве крупных городов. Одна кружка эля Багмана считается 4 кружками нормального эля для целей интоксикации (см. @Item[Кутёж]) и дает иммунитет к проверкам страха на [[/r 1d10]] часов.</p>"
 		},
 		{
 			"id": "Bullet and Powder",
@@ -313,12 +313,12 @@
 		},
 		{
 			"id": "Cup",
-			"name": "Cup",
+			"name": "Кружка",
 			"description": ""
 		},
 		{
 			"id": "Cutlery",
-			"name": "Cutlery",
+			"name": "Столовые приборы",
 			"description": ""
 		},
 		{
@@ -333,8 +333,8 @@
 		},
 		{
 			"id": "Davrich Lamp",
-			"name": "Davrich Lamp",
-			"description": "<p>A safety lamp emitting the light of a candle, first developed for Reikland’s mines by Master Engineer Davrich Stephansson. It ﬂares brightly in ‘firedamp’ (explosive gasses); after [[/r 1d10]] Rounds of exposure to the lamp the firedamp will explode. It is wise to withdraw before this happens.</p>"
+			"name": "Лампа Давриха",
+			"description": "<p>Безопасная лампа, излучающая свет свечи, впервые разработанная для шахт Рейкланда главным инженером Даврихом Стефанссоном. Она ярко горит в «рудничном газе» (взрывоопасные газы); после [[/r 1d10]] раундов воздействия лампы рудничный газ взорвется. Целесообразно уйти до того, как это произойдет.</p>"
 		},
 		{
 			"id": "Deck of Cards",
@@ -348,13 +348,13 @@
 		},
 		{
 			"id": "Dice",
-			"name": "Dice",
+			"name": "Игральные кости",
 			"description": ""
 		},
 		{
 			"id": "Digestive Tonic",
-			"name": "Digestive Tonic",
-			"description": "<p>Provides +20 to recovery Tests from stomach ailments such as the Galloping Trots or The Bloody Flux</p>"
+			"name": "Пищеварительный тоник",
+			"description": "<p>Предоставляет бонус +20 к проверкам выздоровления от болезней желудка, таких как скачущая диарея или кровавый понос.</p>"
 		},
 		{
 			"id": "Disguise Kit",
@@ -383,8 +383,8 @@
 		},
 		{
 			"id": "Earth Root",
-			"name": "Earth Root",
-			"description": "<p>This herb is ingested to negate the effects of Buboes caused by the Black Plague (though the swellings are still significant). Further, gain a bonus of +10 on all Tests concerning the disease. <strong>Dose</strong>: 1 per day.</p>"
+			"name": "Земляной корень",
+			"description": "<p>Эта трава проглатывается, чтобы свести на нет эффекты бубонов, вызванные черной чумой (хотя опухоли все еще значительны). Кроме того, получите бонус +10 ко всем проверкам, связанным с этой болезнью. <strong>Доза</strong>: 1 раз в день.</p>"
 		},
 		{
 			"id": "Elf Arrow",
@@ -398,13 +398,13 @@
 		},
 		{
 			"id": "Engineering Marvel",
-			"name": "Инжинерное чудо",
-			"description": "<p>Only for the exceedingly rich, you commission a work of art from one of the Engineers&rsquo; Guilds, allowing you to completely ignore the loss of an ear, hand, arm, or leg, as steam hisses and machinery clicks in place of blood and muscle. Should you ever receive a Critical Wound to the marvel, it automatically breaks down, and needs to be taken back for costly repair (at least 10% of the base cost, depending upon the nature of the Critical Wound received).</p>"
+			"name": "Инженерное чудо",
+			"description": "<p>Только чрезвычайно богатые могут себе позволить заказать произведение искусства у одной из инженерных гильдий, что позволяет вам полностью игнорировать потерю уха, руки, кисти или ноги, ведь паровые механизмы будут работать вместо крови и мышц. Если вы когда-либо получите критическую рану по чуду, оно автоматически ломается и должно быть возвращено для дорогостоящего ремонта (не менее 10% от базовой стоимости, в зависимости от характера полученной критической раны).</p>"
 		},
 		{
 			"id": "Eye patch",
 			"name": "Повязка на глаз",
-			"description": "<p>Often decorated, an eye patch is used to cover scarred eye sockets.</p>"
+			"description": "<p>Часто украшенная, глазная повязка используется, чтобы прикрыть пустую глазницу.</p>"
 		},
 		{
 			"id": "Face Powder",
@@ -413,18 +413,18 @@
 		},
 		{
 			"id": "False Eye",
-			"name": "False Eye",
-			"description": "<p>Particularly popular amongst the rich who prefer not to wear cruder eye-patches, false eyes come in many forms, from wooden to polished glass.</p>"
+			"name": "Искусственный глаз",
+			"description": "<p>Особенно популярны среди богатых, которые предпочитают грубым повязкам выглядящие почти натурально искусственные глаза. Они бывают из разных материалов, как из дерева, так и из полированного стекла.</p>"
 		},
 		{
 			"id": "False Leg",
-			"name": "False Leg",
-			"description": "<p>&nbsp;</p>\n<p>A False Leg (or just a False Foot, for half price), allows you to ignore 1 point of Movement loss due to the missing body part. Further, for 100 XP you can regain the last point of Movement Loss as you train yourself to use your new body part, and for 200 XP you relearn how to use Dodge again. This all requires you not to lose your False Leg, though.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Искусственная нога",
+			"description": "<p>Искусственная нога (или стопа за полцены) позволяет вам игнорировать 1 очко потери скорости из-за отсутствующей части тела. Кроме того, за 100 XP вы можете восстановить последнее очко потери скорости, так как вы тренируетесь использовать свою новую часть тела, а за 200 XP вы заново изучаете, как использовать уворот. Это будет работать до тех пор, пока на вас надета искусственная нога.</p>"
 		},
 		{
 			"id": "Faxtoryll",
-			"name": "Faxtoryll",
-			"description": "<p>When smeared on a wound, poultices made from this herbal coagulant remove all Bleeding Conditions without a Heal Test. <strong>Dose</strong>: 1 per Critical Wound.</p>"
+			"name": "Факсторил",
+			"description": "<p>При нанесении мазка этой припарки, изготовленной из этого травяного коагулянта, на рану, удаляют все состояния «Кровоточащий» без проверок лечения. <strong>Доза</strong>: 1 за критическую рану.</p>"
 		},
 		{
 			"id": "Fish Hooks",
@@ -468,8 +468,8 @@
 		},
 		{
 			"id": "Gilded Nose",
-			"name": "Gilded Nose",
-			"description": "<p>Though most are made of wood or ceramic, the term gilded nose is widely used regardless. You can ignore the Fellowship loss for having no nose.</p>"
+			"name": "Позолоченный нос",
+			"description": "<p>Хотя большинство из них сделаны из дерева или керамики, термин позолоченный нос широко используется независимо от материала. Вы можете игнорировать потерю Общительности за отсутствие носа.</p>"
 		},
 		{
 			"id": "Gloves",
@@ -488,8 +488,8 @@
 		},
 		{
 			"id": "Grappling Hook",
-			"name": "Grappling Hook",
-			"description": "<p>Coupled with a rope, allows unscalable surfaces to be climbed.</p>"
+			"name": "Крюк-кошка",
+			"description": "<p>В сочетании с веревкой позволяет взбираться на недоступные ранее поверхности.</p>"
 		},
 		{
 			"id": "Great Axe",
@@ -533,13 +533,13 @@
 		},
 		{
 			"id": "Healing Draught",
-			"name": "Healing Draught",
-			"description": "<p>If you have more than 0 Wounds, recover Toughness Bonus Wounds immediately. <strong>Dose</strong>: 1 per encounter.</p>"
+			"name": "Целебное зелье",
+			"description": "<p>Если у вас больше чем 0 ран, восстановите [рейтинг стойкости] ран немедленно. <strong>Доза</strong>: 1 за сцену.</p>"
 		},
 		{
 			"id": "Healing Poultice",
-			"name": "Healing Poultice",
-			"description": "<p>This foul-smelling medicinal wrap is made from animal dung and urine combined with any number of common herbs such as Sigmafoil, Tarrabeth, and Valerian. You do not suffer any Minor Infections from a Critical Wound treated with a Healing Poultice.</p>"
+			"name": "Целебная припарка",
+			"description": "<p>Эта дурно пахнущая лекарственная припарка сделана из навоза и мочи животных в сочетании с любым количеством распространенных трав, таких как сигмафил, таррабет и валериана. Вы не страдаете от малых инфекций от критической раны, обработанной целебной припаркой.</p>"
 		},
 		{
 			"id": "Heartkill",
@@ -573,8 +573,8 @@
 		},
 		{
 			"id": "Hook",
-			"name": "Hook",
-			"description": "<p><span style=\"color: #231f20;\">You have a hook strapped where you used to have a hand. A surprisingly nimble tool once you are used to it, you can buy back the –20 penalty on all Tests involving two hands for 100 XP per 5 you subtract from the penalty, removing the penalty completely for 400 XP. </span><strong><span style=\"color: #231f20;\">Append</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In Close Combat, a Hook counts as a Dagger</span></p>"
+			"name": "Крюк",
+			"description": "У вас есть крюк, установленный там, где раньше была рука. Удивительно шустрый инструмент, при должной сноровке, он позволит полностью избавиться от штрафа -20 ко всем проверкам, требующим двух рук, если потратите на это XP, по 100 XP за избавление от штрафа -5, и потратив 400 XP вы полностью проигнорируете штраф. Дополнительно: В ближнем бою крюк считается кинжалом.</p>"
 		},
 		{
 			"id": "Hunting Dog",
@@ -598,12 +598,12 @@
 		},
 		{
 			"id": "Instrument",
-			"name": "Instrument",
-			"description": "<p>Various instruments are included in this category. The standard price and encumbrance reﬂects medium-sized instruments (e.g. mandolin, coach horn, small drum). Small instruments are half the price and 0 Encumbrance points (e.g. ﬂute, recorder, tambourine). Larger instruments are double the price and 2 Encumbrance points (e.g. harp, lute, large drum).</p>"
+			"name": "Музыкальный инструмент",
+			"description": "<p>В эту категорию включены различные музыкальные инструменты. Стандартная цена и обременение отражают инструменты среднего размера (например, мандолин, каретный рог, небольшой барабан). Маленькие инструменты — это половина цены и 0 очков обременения (например, флейта, бубен). Большие инструменты имеют двойную цену и 2 очка обременения (например, арфа, лютня, большой барабан).</p>"
 		},
 		{
 			"id": "Javelin",
-			"name": "Javelin",
+			"name": "Метательное копье",
 			"description": ""
 		},
 		{
@@ -633,8 +633,8 @@
 		},
 		{
 			"id": "Lamp Oil",
-			"name": "Lamp Oil",
-			"description": "<p>Contains enough fuel for 4 hours of standard use, or 8 hours of low ﬂame equivalent to a candle.</p>"
+			"name": "Масло для лампы",
+			"description": "<p>Содержит достаточно топлива на 4 часа стандартного использования или на 8 часов при слабом пламени, эквивалентном свече.</p>"
 		},
 		{
 			"id": "Lance",
@@ -643,8 +643,8 @@
 		},
 		{
 			"id": "Lantern",
-			"name": "Lantern",
-			"description": "<p>Provides illumination for 20 yards.</p>"
+			"name": "Фонарь",
+			"description": "<p>Обеспечивает освещение в пределах 20 ярдов.</p>"
 		},
 		{
 			"id": "Lasso",
@@ -704,7 +704,7 @@
 		{
 			"id": "Mad Cap Mushrooms",
 			"name": "Сумасшедшие грибы",
-			"description": "<p>Эти галлюциногенные грибы едят фанатики-гоблины перед битвой. Они вызывают ярость берсерка, добавляя +10 к силе, +4 к ранам и талант «Бешенство». Когда эффект проходит, пользователь теряет 1d10 ран. Лица, не являющиеся зеленокожими, должны также пройти <strong>серьезную (+0) проверку выносливости</strong> или получат малую инфекцию. <strong>Длительность</strong>: Активизируется при разжевывании плюс дополнительные 2d10 минут.</p>"
+			"description": "<p>Эти галлюциногенные грибы едят фанатики-гоблины перед битвой. Они вызывают ярость берсерка, добавляя +10 к силе, +4 к ранам и талант «Бешенство». Когда эффект проходит, пользователь теряет [[/r 1d10]] ран. Лица, не являющиеся зеленокожими, должны также пройти <strong>серьезную (+0) проверку выносливости</strong> или получат малую инфекцию. <strong>Длительность</strong>: Активизируется при разжевывании плюс дополнительные [[/r 2d10]] минут.</p>"
 		},
 		{
 			"id": "Mail Chausses",
@@ -738,8 +738,8 @@
 		},
 		{
 			"id": "Mandrake Root",
-			"name": "Mandrake Root",
-			"description": "<p>This highly-addictive deliriant grows under gallows, and is chewed to keep an unquiet mind still. Users must pass a Willpower Test every Round to perform an Action or a Move (choose one); further, Movement is halved. However, Cool Tests receive a bonus of +20. <strong>Duration</strong>: Active when chewed plus an additional 1d10×10 minutes.</p>"
+			"name": "Корень мандрагоры",
+			"description": "<p>Это вызывающее сильное привыкание растение растет под виселицами, и его разжевывают, чтобы успокоить беспокойный ум. Пользователи должны проходить проверку силы воли каждый раунд, чтобы выполнить действие или движение (выберите что-то одно); далее скорость делится пополам. Тем не менее, проверки хладнокровия получают бонус +20. <strong>Длительность</strong>: активна при разжевывании плюс дополнительные [[/r 1d10 * 10]] минут.</p>"
 		},
 		{
 			"id": "Map",
@@ -753,7 +753,7 @@
 		},
 		{
 			"id": "Match",
-			"name": "Match",
+			"name": "Спичка",
 			"description": ""
 		},
 		{
@@ -773,8 +773,8 @@
 		},
 		{
 			"id": "Moonflower",
-			"name": "Moonflower",
-			"description": "<p>This tranquilizer is a dried moss which grows only on leaves in the Laurelorn forest. Elves use Moonﬂower to treat Black Plague, granting a bonus of +30 to any associated Tests for Elves to resist the disease, otherwise it has no effect on their species. Others can inhale vapors from boiling the moss and if they fail a <strong>Very Hard (–30) Willpower</strong> Test will gain an Unconscious Condition; if passed, they receive a bonus of +20 to Cool Tests and gain a Fatigued Condition. Moonﬂower is used by the most expensive Physicians as an anesthetic. <strong>Duration</strong>: 1d10+5 hours.</p>"
+			"name": "Луноцвет",
+			"description": "<p>Этот транквилизатор представляет собой высушенный мох, который растет только на листьях в лавровом лесу. Эльфы используют луноцвет для лечения черной чумы, получая бонус +30 к любым связанным с сопротивлением болезни только для эльфов, чтобы противостоять болезни, что не помогает прочим расам. Остальные могут вдыхать пары от кипячения мха, и если они не пройдут <strong>очень трудную (-30) проверку силы воли</strong>, то получат состояние «Без сознания».В случае успеха, они получают бонус +20 к проверкам хладнокровия и получают состояние «Устал». Луноцвет используется самыми дорогими врачами в качестве анестезирующего средства. <strong>Длительность</strong>: [[/r 1d10 + 5]] часов.</p>"
 		},
 		{
 			"id": "Mop",
@@ -793,8 +793,8 @@
 		},
 		{
 			"id": "Nightshade",
-			"name": "Nightshade",
-			"description": "<p>Consuming this herb causes the victim to fall into a deep sleep after 2-3 hours, unless an Endurance Test is passed. A Nightshade slumber lasts 1d10+4 hours. <strong>Dose</strong>: 1 per person.</p>"
+			"name": "Паслён",
+			"description": "<p>Употребление этой травы заставляет жертву погрузиться в глубокий сон через 2-3 часа, если она провалит проверку выносливости. Такой сон длится [[/r 1d10 + 4]] часа. <strong>Доза</strong>: 1 на персонажа.</p>"
 		},
 		{
 			"id": "Paint Brush",
@@ -803,7 +803,7 @@
 		},
 		{
 			"id": "Pan",
-			"name": "Pan",
+			"name": "Сковородка",
 			"description": ""
 		},
 		{
@@ -843,7 +843,7 @@
 		},
 		{
 			"id": "Pipe and Tobacco",
-			"name": "Pipe and Tobacco",
+			"name": "Трубка и табак",
 			"description": ""
 		},
 		{
@@ -853,12 +853,12 @@
 		},
 		{
 			"id": "Placard",
-			"name": "Placard",
+			"name": "Афиша",
 			"description": ""
 		},
 		{
 			"id": "Plate",
-			"name": "Plate",
+			"name": "Тарелка",
 			"description": ""
 		},
 		{
@@ -903,7 +903,7 @@
 		},
 		{
 			"id": "Quarterstaff",
-			"name": "Quarterstaff",
+			"name": "Боевой посох",
 			"description": ""
 		},
 		{
@@ -913,7 +913,7 @@
 		},
 		{
 			"id": "Rags",
-			"name": "Rags",
+			"name": "Ветошь",
 			"description": ""
 		},
 		{
@@ -923,8 +923,8 @@
 		},
 		{
 			"id": "Ranald's Delight",
-			"name": "Ranald's Delight",
-			"description": "<p>This highly-addictive stimulant is a synthetic compound made from sulphur, mercury and other elements. Inhaling the powder provides a bonus of +1 to Movement, and +10 to WS, S, T, and Agi. Tis last for 3 hours, after which the user suffers a penalty of –2 Movement and –20 on Weapon Skill, Strength, Toughness, and Agility. <strong>Duration</strong>: 1 day.</p>"
+			"name": "Восторг Ранальда",
+			"description": "<p>Этот стимулятор, вызывающий сильную зависимость, представляет собой синтетическое соединение, состоящее из серы, ртути и других элементов. Вдыхание порошка дает бонус +1 к скорости и +10 к навыку рукопашной, силе, стойкости и ловкости. Эффект длится 3 часа, после чего пользователь получает штраф -2 к скорости и -20 к навыку рукопашной, силе, стойкости и ловкости. <strong>Длительность</strong>: 1 день.</p>"
 		},
 		{
 			"id": "Rapier",
@@ -1018,8 +1018,8 @@
 		},
 		{
 			"id": "Salwort",
-			"name": "Salwort",
-			"description": "<p>When held under someone’s nose, the aroma from a crushed sprig of this herb removes 1 Stunned&nbsp;Condition. <strong>Dose</strong>: 1 per encounter.</p>"
+			"name": "Салворт",
+			"description": "<p>Если подержать перед чьим-то носом субстанцию из измельченной веточки этой травы, это снимет 1 состояние «Ошеломлён». <strong>Доза</strong>: 1 раз в сцену.</p>"
 		},
 		{
 			"id": "Saw",
@@ -1058,7 +1058,7 @@
 		},
 		{
 			"id": "Shortbow",
-			"name": "Shortbow",
+			"name": "Короткий лук",
 			"description": ""
 		},
 		{
@@ -1108,13 +1108,13 @@
 		},
 		{
 			"id": "Spirits, pint",
-			"name": "Spirits, pint",
+			"name": "Спиртные напитки, пинта",
 			"description": ""
 		},
 		{
 			"id": "Spit",
-			"name": "Spit",
-			"description": "<p>Extracted from Chameleoleeches found in the marshes of the Empire, this extraordinarily powerful hallucinogen brings visions of something deeply desired, such as a lost lover, a dead friend, or a missing child. Called Spit on the streets, it’s popular with those lost to despair. Upon exposure, you must pass a <strong>Very Hard (–30) Toughness</strong> Test or be lost to a fully real fantasy, which is a matter for the GM to handle. <strong>Duration</strong>: 1d10 minutes.</p>"
+			"name": "Харчок",
+			"description": "<p>Этот необычайно сильный галлюциноген, извлеченный из хамелеоличей, найденных в болотах Империи, приносит видения чего-то очень желанного, например, потерянного любовника, мертвого друга или пропавшего ребенка. На улицах его кличут харчком, он популярен среди тех, кто потерял пару. При воздействии вы должны пройти <strong>очень трудную (-30) проверку стойкости</strong> или будете полностью оторваны от реальности, пребывая в фантазии, которую опишет ваш GM. <strong>Длительность</strong>: [[/r 1d10]] минут.</p>"
 		},
 		{
 			"id": "Stables/night",
@@ -1138,8 +1138,8 @@
 		},
 		{
 			"id": "Storm Lantern",
-			"name": "Storm Lantern",
-			"description": "<p>Shutters protect the ﬂame from wind, and also enable the light to be directed in a 90&deg; arc or darkened altogether. Provides illumination for 20 yards, or 30 when targeted.</p>"
+			"name": "Штормовой фонарь",
+			"description": "<p>Ставни защищают пламя от ветра, а также позволяют направлять свет по дуге 90 ° или затемнять фонарь. Обеспечивает освещение на 20 ярдов или 30 при направлении.</p>"
 		},
 		{
 			"id": "Swordbreaker",
@@ -1159,7 +1159,7 @@
 		{
 			"id": "Tent",
 			"name": "Палатка",
-			"description": ""
+			"description": "Палатка среднего размера, в которой могут разместиться четыре человека. В маленьких палатках могут разместиться 2 человека за полцены и 1 очко обременения. Большие палатки вмещают 8 человек по двойной цене и имея 4 очка обременения."
 		},
 		{
 			"id": "Throwing Axe",
@@ -1203,8 +1203,8 @@
 		},
 		{
 			"id": "Vitality Draught",
-			"name": "Vitality Draught",
-			"description": "<p>Drinking this draught instantly removes all Fatigued&nbsp;Conditions.</p>"
+			"name": "Зелье бодрости",
+			"description": "<p>Употребление этого зелья мгновенно удаляет все состояния «Устал».</p>"
 		},
 		{
 			"id": "Wagon",
@@ -1228,8 +1228,8 @@
 		},
 		{
 			"id": "Weirdroot",
-			"name": "Weirdroot",
-			"description": "<p>One of the most common street-drugs in the Empire, Weirdroot is chewed, bringing a sense of euphoria and pleasant hallucinations, which some suggest may be connected to the Winds of Magic. The drug gives a +10 bonus to Toughness and Willpower Tests, but a penalty of &ndash;10 to Agility, Initiative, and Intelligence Tests. <strong>Duration</strong>: Active when chewed plus an additional [[/r 1d10 * 10]] minutes.</p>"
+			"name": "Дивнокорень",
+			"description": "<p>Один из самых распространенных уличных наркотиков в Империи, дивнокорень разжевывается, вызывая чувство эйфории и приятных галлюцинаций, которые, как полагают некоторые, могут быть связаны с Магическими Ветрами. Препарат дает бонус +10 к проверкам стойкости и силы воли, но накладывает штраф -10 к проверкам ловкости, инициативы и интеллекта. <strong>Длительность</strong>: Активен пока жуется, плюс дополнительные [[/r 1d10 * 10]] минут.</p>"
 		},
 		{
 			"id": "Whip",
@@ -1249,7 +1249,7 @@
 		{
 			"id": "Wooden Teeth",
 			"name": "Деревянные зубы",
-			"description": "<p>False Teeth are often beautifully carved and painted, and sometimes a significant improvement to the originals. You ignore all penalties for loss of teeth.</p>"
+			"description": "<p>Искусственные зубы часто качественно вырезаны и окрашены, а иногда и значительно превосходят оригинал. Вы игнорируете все штрафы за потерю зубов.</p>"
 		},
 		{
 			"id": "Workshop (Type)",
