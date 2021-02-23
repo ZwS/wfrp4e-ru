@@ -13,7 +13,7 @@
 		},
 		{
 			"id": "Animal Training (Demigryph)",
-			"name": "Дрессировка (Demigryph)",
+			"name": "Дрессировка (Демигриф)",
 			"description": ""
 		},
 		{
@@ -193,7 +193,7 @@
 		},
 		{
 			"id": "Entertain (Comedy)",
-			"name": "Артистизм (Comedy)",
+			"name": "Артистизм (Комедия)",
 			"description": ""
 		},
 		{
@@ -203,7 +203,7 @@
 		},
 		{
 			"id": "Entertain (Storytelling)",
-			"name": "Артистизм (Storytelling)",
+			"name": "Артистизм (Cказительство)",
 			"description": ""
 		},
 		{
@@ -258,12 +258,12 @@
 		},
 		{
 			"id": "Language (Battle Tongue)",
-			"name": "Язык (Battle Tongue)",
+			"name": "Язык (Боевой арго)",
 			"description": ""
 		},
 		{
 			"id": "Language (Bretonnian)",
-			"name": "Язык (Bretonnian)",
+			"name": "Язык (Бретонский)",
 			"description": ""
 		},
 		{
@@ -273,12 +273,12 @@
 		},
 		{
 			"id": "Language (Elthárin)",
-			"name": "Язык (Elthárin)",
+			"name": "Язык (Эльтарин)",
 			"description": ""
 		},
 		{
 			"id": "Language (Estalian)",
-			"name": "Язык (Estalian)",
+			"name": "Язык (Эсталийский)",
 			"description": ""
 		},
 		{
@@ -298,7 +298,7 @@
 		},
 		{
 			"id": "Language (Magick)",
-			"name": "Язык (Magick)",
+			"name": "Язык (Магический)",
 			"description": ""
 		},
 		{
@@ -333,7 +333,7 @@
 		},
 		{
 			"id": "Language (Wastelander)",
-			"name": "Язык (Wastelander)",
+			"name": "Язык (Вестерландский)",
 			"description": ""
 		},
 		{
@@ -358,7 +358,7 @@
 		},
 		{
 			"id": "Lore (Heraldry)",
-			"name": "Знание (Heraldry)",
+			"name": "Знание (Геральдика)",
 			"description": ""
 		},
 		{
@@ -398,12 +398,12 @@
 		},
 		{
 			"id": "Melee (Basic)",
-			"name": "Рукопашное (Basic)",
+			"name": "Рукопашное (Основное)",
 			"description": ""
 		},
 		{
 			"id": "Melee (Brawling)",
-			"name": "Рукопашное (Brawling)",
+			"name": "Рукопашное (Кулачное)",
 			"description": ""
 		},
 		{
@@ -413,7 +413,7 @@
 		},
 		{
 			"id": "Melee (Fencing)",
-			"name": "Рукопашное (Fencing)",
+			"name": "Рукопашное (Фехтовальное)",
 			"description": ""
 		},
 		{
@@ -428,7 +428,7 @@
 		},
 		{
 			"id": "Melee (Polearm)",
-			"name": "Рукопашное (Polearm)",
+			"name": "Рукопашное (Древковое)",
 			"description": ""
 		},
 		{
@@ -498,32 +498,32 @@
 		},
 		{
 			"id": "Play ()",
-			"name": "Игра ()",
+			"name": "Музицирование ()",
 			"description": ""
 		},
 		{
 			"id": "Play (Bagpipe)",
-			"name": "Игра (Bagpipe)",
+			"name": "Музицирование (Bagpipe)",
 			"description": ""
 		},
 		{
 			"id": "Play (Harpsichord)",
-			"name": "Игра (Harpsichord)",
+			"name": "Музицирование (Клавесин)",
 			"description": ""
 		},
 		{
 			"id": "Play (Horn)",
-			"name": "Игра (Horn)",
+			"name": "Музицирование (Horn)",
 			"description": ""
 		},
 		{
 			"id": "Play (Lute)",
-			"name": "Игра (Lute)",
+			"name": "Музицирование (Lute)",
 			"description": ""
 		},
 		{
 			"id": "Play (Violin)",
-			"name": "Игра (Violin)",
+			"name": "Музицирование (Violin)",
 			"description": ""
 		},
 		{
@@ -538,17 +538,17 @@
 		},
 		{
 			"id": "Ranged (Blackpowder)",
-			"name": "Дальнобойное (Blackpowder)",
+			"name": "Дальнобойное (Пороховое)",
 			"description": ""
 		},
 		{
 			"id": "Ranged (Bow)",
-			"name": "Дальнобойное (Bow)",
+			"name": "Дальнобойное (Лук)",
 			"description": ""
 		},
 		{
 			"id": "Ranged (Crossbow)",
-			"name": "Дальнобойное (Crossbow)",
+			"name": "Дальнобойное (Арбалет)",
 			"description": ""
 		},
 		{
@@ -568,7 +568,7 @@
 		},
 		{
 			"id": "Ranged (Sling)",
-			"name": "Дальнобойное (Sling)",
+			"name": "Дальнобойное (Праща)",
 			"description": ""
 		},
 		{
@@ -578,7 +578,7 @@
 		},
 		{
 			"id": "Research",
-			"name": "Исследование",
+			"name": "Книжные изыскания",
 			"description": ""
 		},
 		{
@@ -588,7 +588,7 @@
 		},
 		{
 			"id": "Ride (Demigryph)",
-			"name": "Верховая езда (Demigryph)",
+			"name": "Верховая езда (Демигриф)",
 			"description": ""
 		},
 		{
@@ -598,17 +598,17 @@
 		},
 		{
 			"id": "Ride (Griffon)",
-			"name": "Верховая езда (Griffon)",
+			"name": "Верховая езда (Грифон)",
 			"description": ""
 		},
 		{
 			"id": "Ride (Horse)",
-			"name": "Верховая езда (Horse)",
+			"name": "Верховая езда (Лошадь)",
 			"description": ""
 		},
 		{
 			"id": "Ride (Pegasus)",
-			"name": "Верховая езда (Pegasus)",
+			"name": "Верховая езда (Пегас)",
 			"description": ""
 		},
 		{
@@ -618,32 +618,32 @@
 		},
 		{
 			"id": "Sail ()",
-			"name": "Мореходство ()",
+			"name": "Хождение под парусом ()",
 			"description": ""
 		},
 		{
 			"id": "Sail (Barge)",
-			"name": "Мореходство (Barge)",
+			"name": "Хождение под парусом (Barge)",
 			"description": ""
 		},
 		{
 			"id": "Sail (Caravel)",
-			"name": "Мореходство (Caravel)",
+			"name": "Хождение под парусом (Caravel)",
 			"description": ""
 		},
 		{
 			"id": "Sail (Cog)",
-			"name": "Мореходство (Cog)",
+			"name": "Хождение под парусом (Cog)",
 			"description": ""
 		},
 		{
 			"id": "Sail (Frigate)",
-			"name": "Мореходство (Frigate)",
+			"name": "Хождение под парусом (Frigate)",
 			"description": ""
 		},
 		{
 			"id": "Sail (Wolfship)",
-			"name": "Мореходство (Wolfship)",
+			"name": "Хождение под парусом (Wolfship)",
 			"description": ""
 		},
 		{

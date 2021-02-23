@@ -13,7 +13,7 @@
 		},
 		{
 			"id": "Animal Training (Demigryph)",
-			"name": "Дрессировка (Demigryph)",
+			"name": "Дрессировка (Демигриф)",
 			"description": "<p>Animal Training represents your understanding of demigryphs, and your ability to train them. A successful use of the Skill allows you to identify the Trained abilities possessed by a demigryph. The Animal Training Skill also allows you to undertake the Animal Training Endeavour between adventures.</p>\n<p>&nbsp;</p>\n<p>In combat, a successful Opposed Animal Training/Willpower Test allows you to intimidate a single demigryph; you cause Fear in the demigryph targeted until the end of your next turn. When causing Fear in this way, you may subsequently use your Animal Training Skill instead of Melee when defending against your target; with your GM’s approval you may also use Animal Training to attack your target, issuing specific commands.</p>\n<p>&nbsp;</p>\n<h3><span style=\"text-decoration: underline;\">Animals</span></h3>\n<p>Whether a creature does, or does not come under the auspices of animal care and animal training is up to your GM. While certain creatures — dog, horse, demigryph — seem obvious, others are less so. you may argue that dragon should be covered under animal training, but try telling that to the dragon…</p>\n<p>&nbsp;</p>\n<p><strong>Example</strong>:&nbsp;<em>Facing a slavering war-hound, Ilse passes an&nbsp;Opposed Animal Training (Dog) roll, in the first round of combat, causing Fear in the beast, and gaining +1 Advantage. In the next round she ‘attacks’ her target with her Animal Training Skill, beating the dog’s defense. Her GM allows her to instruct the beast to ﬂee, which it does, its tail between its legs.&nbsp;</em></p>"
 		},
 		{
@@ -188,7 +188,7 @@
 		},
 		{
 			"id": "Entertain (Comedy)",
-			"name": "Артистизм (Comedy)",
+			"name": "Артистизм (Комедия)",
 			"description": "<p>Allows you to delight crowds with the spoken word, perhaps by singing, acting, or attempting a few jokes. A successful use of the Entertain Skill means you have entertained patrons near enough to hear you; the SL indicates how well you have done.</p>\n                        <p>In combat, it is unlikely that Entertain will be of much use, although you may come up with an interesting way to use Entertain (Acting) to confuse or mislead your opponents.</p>"
 		},
 		{
@@ -198,7 +198,7 @@
 		},
 		{
 			"id": "Entertain (Storytelling)",
-			"name": "Артистизм (Storytelling)",
+			"name": "Артистизм (Cказительство)",
 			"description": "<p>Allows you to delight crowds with the spoken word, perhaps by singing, acting, or attempting a few jokes. A successful use of the Entertain Skill means you have entertained patrons near enough to hear you; the SL indicates how well you have done.</p>\n                                        <p>In combat, it is unlikely that Entertain will be of much use, although you may come up with an interesting way to use Entertain (Acting) to confuse or mislead your opponents.</p>"
 		},
 		{
@@ -248,12 +248,12 @@
 		},
 		{
 			"id": "Language (Battle Tongue)",
-			"name": "Язык (Battle Tongue)",
+			"name": "Язык (Боевой арго)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><strong>Battle Tongue: </strong>Spoken by warriors of the Old World. It is very common amongst soldiers and mercenaries and is used for giving orders swiftly during battle. It was supposedly developed by the goddess Myrmidia when she walked the Old World as a mortal.</p>\n<p>&nbsp;</p>\n<h3>Options: Battle Tongue</h3>\n<p>Battle tongue represents a series of simple commands and gestures that may be made in the heat of combat. Players with language (Battle Tongue) may communicate brieﬂy with one another during combat without penalty. those without the skill cannot quickly coordinate their attacks or discuss strategy once combat begins.</p>"
 		},
 		{
 			"id": "Language (Bretonnian)",
-			"name": "Язык (Bretonnian)",
+			"name": "Язык (Бретонский)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><strong>Bretonnian</strong><strong>:&nbsp;</strong>Spoken by the folk of Bretonnia, who are commonly encountered in the Reikland. Bretonnia is a chivalric realm to the south-west of the Empire.</p>"
 		},
 		{
@@ -263,12 +263,12 @@
 		},
 		{
 			"id": "Language (Elthárin)",
-			"name": "Язык (Elthárin)",
+			"name": "Язык (Эльтарин)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><strong>Elthá</strong><strong>rin</strong><strong>:&nbsp;</strong>Spoken by the folk of Athel Loren, the Laurelorn, and visiting merchants from Ulthuan. Elthárin is the language of the Elves. The tonal language has many dialects, and is notoriously difficult for non-Elves to learn.</p>"
 		},
 		{
 			"id": "Language (Estalian)",
-			"name": "Язык (Estalian)",
+			"name": "Язык (Эсталийский)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Estalian</span><strong>:&nbsp;</strong>Spoken by the folk of Estalia, people of the hot, southern-western kingdoms known for their bitter politics and worship of the goddess Myrmidia.</p>"
 		},
 		{
@@ -288,7 +288,7 @@
 		},
 		{
 			"id": "Language (Magick)",
-			"name": "Язык (Magick)",
+			"name": "Язык (Магический)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Magick</span><strong>:&nbsp;</strong>Spoken by wizards; a tonal language used to shape the Winds of Magic into material effects. The academic form of the language taught by the Colleges of Magic is called the Lingua Praestantia, which is quite different to the debased form of the language used by witches and the untrained. It is not a language used for communication.</p>"
 		},
 		{
@@ -323,7 +323,7 @@
 		},
 		{
 			"id": "Language (Wastelander)",
-			"name": "Язык (Wastelander)",
+			"name": "Язык (Вестерландский)",
 			"description": "<p>The Language Skill grants you access to extra languages beyond your native tongue. All characters are automatically assumed to be able to speak ‘Reikspiel’ — the language of the Empire — and their native language (if your character has one different to Reikspiel), without ever having to Test. If your game is not set in the Empire, replace Reikspiel with the local language.</p>\n<p>&nbsp;</p>\n<p>If you possess a Language Skill, you are generally able to make yourself understood in that language, or to understand simple concepts. You will be asked to Test your Language Skill when a particularly difficult concept must be conveyed, or an obscure dialect or vocabulary is employed.</p>\n<p>&nbsp;</p>\n<p><strong>Wastelander: </strong>Spoken by the rural folk of the Wasteland, a windswept territory to the west of the Reikland. The official language of the Wasteland’s capital, Marienburg, is Reikspiel, a reminder that the realm was once part of the Empire.</p>"
 		},
 		{
@@ -348,7 +348,7 @@
 		},
 		{
 			"id": "Lore (Heraldry)",
-			"name": "Знание (Heraldry)",
+			"name": "Знание (Геральдика)",
 			"description": "<p>Having a Lore Skill means you’ve been formally taught, or have somehow otherwise learned, a branch of specialist knowledge. Possessing a Lore Skill means you are broadly knowledgeable in the specialization and don’t need to make a Test in order for the GM to supply you with relevant facts. If you are seeking specific, less well-known information, you will be required to make a Lore Test, modified by how obscure the information is, with the SL indicating how much detail you recall.</p>\n                        <p>&nbsp;</p>\n                        <p>In combat, successful Lore Tests may afford you +1 Advantage if appropriate (with your GM’s approval). For instance, Lore (Geology) may give you an edge if fighting in a rocky cavern, or Lore (Engineering) may help you if fighting a foe armed with a complex mechanical device. You may continue building Advantage in subsequent turns providing the circumstances are correct (as determined by the GM) and you are not interrupted; you may gain a maximum Advantage equal to your Intelligence Bonus in this manner.</p>"
 		},
 		{
@@ -363,7 +363,7 @@
 		},
 		{
 			"id": "Lore (Magick)",
-			"name": "Знание (Magick)",
+			"name": "Знание (Магия)",
 			"description": "<p>Having a Lore Skill means you’ve been formally taught, or have somehow otherwise learned, a branch of specialist knowledge. Possessing a Lore Skill means you are broadly knowledgeable in the specialization and don’t need to make a Test in order for the GM to supply you with relevant facts. If you are seeking specific, less well-known information, you will be required to make a Lore Test, modified by how obscure the information is, with the SL indicating how much detail you recall.</p>\n                                                <p>&nbsp;</p>\n                                                <p>In combat, successful Lore Tests may afford you +1 Advantage if appropriate (with your GM’s approval). For instance, Lore (Geology) may give you an edge if fighting in a rocky cavern, or Lore (Engineering) may help you if fighting a foe armed with a complex mechanical device. You may continue building Advantage in subsequent turns providing the circumstances are correct (as determined by the GM) and you are not interrupted; you may gain a maximum Advantage equal to your Intelligence Bonus in this manner.</p>"
 		},
 		{
@@ -388,12 +388,12 @@
 		},
 		{
 			"id": "Melee (Basic)",
-			"name": "Рукопашное (Basic)",
+			"name": "Рукопашное (Основное)",
 			"description": "<p>The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialization indicates training in using a specific class of weapon. If you don’t have the correct Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>for the correct weapon entry, and what penalties you will suffer. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for more detail about combat and using the Melee Skill.</p>"
 		},
 		{
 			"id": "Melee (Brawling)",
-			"name": "Рукопашное (Brawling)",
+			"name": "Рукопашное (Кулачное)",
 			"description": "<p>The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialization indicates training in using a specific class of weapon. If you don’t have the correct Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>for the correct weapon entry, and what penalties you will suffer. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for more detail about combat and using the Melee Skill.</p>"
 		},
 		{
@@ -403,7 +403,7 @@
 		},
 		{
 			"id": "Melee (Fencing)",
-			"name": "Рукопашное (Fencing)",
+			"name": "Рукопашное (Фехтовальное)",
 			"description": "<p>The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialization indicates training in using a specific class of weapon. If you don’t have the correct Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>for the correct weapon entry, and what penalties you will suffer. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for more detail about combat and using the Melee Skill.</p>"
 		},
 		{
@@ -418,7 +418,7 @@
 		},
 		{
 			"id": "Melee (Polearm)",
-			"name": "Рукопашное (Polearm)",
+			"name": "Рукопашное (Древковое)",
 			"description": "<p>The Melee Skill represents specific training with a single type of close combat weaponry. Each Melee Specialization indicates training in using a specific class of weapon. If you don’t have the correct Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>for the correct weapon entry, and what penalties you will suffer. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for more detail about combat and using the Melee Skill.</p>"
 		},
 		{
@@ -488,32 +488,32 @@
 		},
 		{
 			"id": "Play ()",
-			"name": "Игра ()",
+			"name": "Музицирование ()",
 			"description": "<p>Your ability to make music with an instrument, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Specialties: </span>Bagpipe, Lute, Harpsichord, Horn, Violin&nbsp;</p>\n<p>&nbsp;</p>\n<h3>The Old World's A Stage…</h3>\n<p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n<p>&nbsp;</p>\n<p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n<p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n<p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n<p>&nbsp;</p>\n<p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
 			"id": "Play (Bagpipe)",
-			"name": "Игра (Bagpipe)",
+			"name": "Музицирование (Bagpipe)",
 			"description": "<p>Your ability to make music with a bagpipe, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n                        <p>&nbsp;</p>\n                        <h3>The Old World's A Stage…</h3>\n                        <p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n                        <p>&nbsp;</p>\n                        <p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n                        <p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n                        <p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n                        <p>&nbsp;</p>\n                        <p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
 			"id": "Play (Harpsichord)",
-			"name": "Игра (Harpsichord)",
+			"name": "Музицирование (Клавесин)",
 			"description": "<p>Your ability to make music with a harpsichord, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n                        <p>&nbsp;</p>\n                        <h3>The Old World's A Stage…</h3>\n                        <p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n                        <p>&nbsp;</p>\n                        <p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n                        <p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n                        <p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n                        <p>&nbsp;</p>\n                        <p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
 			"id": "Play (Horn)",
-			"name": "Игра (Horn)",
+			"name": "Музицирование (Horn)",
 			"description": "<p>Your ability to make music with a horn, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n                                        <p>&nbsp;</p>\n                                        <h3>The Old World's A Stage…</h3>\n                                        <p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n                                        <p>&nbsp;</p>\n                                        <p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n                                        <p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n                                        <p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n                                        <p>&nbsp;</p>\n                                        <p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
 			"id": "Play (Lute)",
-			"name": "Игра (Lute)",
+			"name": "Музицирование (Lute)",
 			"description": "<p>Your ability to make music with a lute, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n                        <p>&nbsp;</p>\n                        <h3>The Old World's A Stage…</h3>\n                        <p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n                        <p>&nbsp;</p>\n                        <p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n                        <p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n                        <p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n                        <p>&nbsp;</p>\n                        <p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
 			"id": "Play (Violin)",
-			"name": "Игра (Violin)",
+			"name": "Музицирование (Violin)",
 			"description": "<p>Your ability to make music with a violin, hopefully well enough to impress others. A successful Play Test lets you entertain those near enough to see and hear you; the SL indicates the quality of the piece played.&nbsp;</p>\n                        <p>&nbsp;</p>\n                        <h3>The Old World's A Stage…</h3>\n                        <p>While there is some overlap between the skills of entertain, Perform, and Play, each reﬂects a distinct group of Skills.</p>\n                        <p>&nbsp;</p>\n                        <p><strong>Entertain</strong> is a Basic skill using Fellowship. It represents those skills of entertainment that anyone can attempt, even without training, such as singing or telling stories.</p>\n                        <p><strong>Perform</strong> is an advanced skill using Agility. Perform specializations require training to attempt, and rely on physical speed and coordination.</p>\n                        <p><strong>Play</strong> is also an advanced skill, this time using Dexterity. It represents training in specific musical instruments, all of which need teaching and practice to perform well.</p>\n                        <p>&nbsp;</p>\n                        <p>You should choose carefully when determining whether your chosen specialization belongs to entertain, perform, or play; consider how the character will physically enact the skill, and whether an untrained beginner could do so with any success. after all, someone without any musical training could feasibly sing beautifully, but hand them a set of bagpipes…</p>"
 		},
 		{
@@ -528,17 +528,17 @@
 		},
 		{
 			"id": "Ranged (Blackpowder)",
-			"name": "Дальнобойное (Blackpowder)",
+			"name": "Дальнобойное (Пороховое)",
 			"description": "<p>Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialization is specific to a group of ranged weapons. If you don’t have the Ranged Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>to see what penalties you will suffer when using the weapon. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for full detail about ranged combat.</p>"
 		},
 		{
 			"id": "Ranged (Bow)",
-			"name": "Дальнобойное (Bow)",
+			"name": "Дальнобойное (Лук)",
 			"description": "<p>Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialization is specific to a group of ranged weapons. If you don’t have the Ranged Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>to see what penalties you will suffer when using the weapon. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for full detail about ranged combat.</p>"
 		},
 		{
 			"id": "Ranged (Crossbow)",
-			"name": "Дальнобойное (Crossbow)",
+			"name": "Дальнобойное (Арбалет)",
 			"description": "<p>Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialization is specific to a group of ranged weapons. If you don’t have the Ranged Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>to see what penalties you will suffer when using the weapon. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for full detail about ranged combat.</p>"
 		},
 		{
@@ -558,7 +558,7 @@
 		},
 		{
 			"id": "Ranged (Sling)",
-			"name": "Дальнобойное (Sling)",
+			"name": "Дальнобойное (Праща)",
 			"description": "<p>Whilst anyone can throw a rock simply using their Ballistic Skill, it takes training and practice to use weapons like bows and pistols. Each Ranged Specialization is specific to a group of ranged weapons. If you don’t have the Ranged Specialization for a weapon you wish to use, refer to <span style=\"font-weight: bold;\">Chapter 11: Consumers’ Guide </span>to see what penalties you will suffer when using the weapon. See <span style=\"font-weight: bold;\">Chapter 5: Rules </span>for full detail about ranged combat.</p>"
 		},
 		{
@@ -568,7 +568,7 @@
 		},
 		{
 			"id": "Research",
-			"name": "Исследование",
+			"name": "Книжные изыскания",
 			"description": "<p>How adept you are at pulling useful and frequently obscure knowledge from libraries and other such storehouses of information. Research requires you have @Item[Read/Write].</p>\n                        <p>&nbsp;</p>\n                        <p>Simply possessing the Research Skill indicates you can find straightforward information from a clearly indexed library without a Test given enough time. If you are seeking specific, less well-known information, or you are in a rush, you will be required to make an Extended Research Test, with the Difficulty modified by the library size, and the target SL depending upon the obscurity of the topic. Research has no use in combat beyond perhaps finding you a useful manual on sword-fighting techniques.</p>\n                        <p>&nbsp;</p>\n                        <h3>Research and Libraries</h3>\n                        <p>Libraries of the old World vary from small personal libraries of a few dozen books to vast archives found in the universities and temples of the towns and cities. Using a Research Test in a small library, perhaps to find a specific book, only takes about 5 minutes. By comparison, research tests in large libraries can easily takes an hour or more per Test, but are far more likely to find esoteric lore.</p>"
 		},
 		{
@@ -578,7 +578,7 @@
 		},
 		{
 			"id": "Ride (Demigryph)",
-			"name": "Верховая езда (Demigryph)",
+			"name": "Верховая езда (Демигриф)",
 			"description": "<p>How proficient you are at riding demigryphs. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test.</p>\n<p>&nbsp;</p>\n<p>If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary. The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat.</p>"
 		},
 		{
@@ -588,17 +588,17 @@
 		},
 		{
 			"id": "Ride (Griffon)",
-			"name": "Верховая езда (Griffon)",
+			"name": "Верховая езда (Грифон)",
 			"description": "<p>How proficient you are at riding griffons. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test.</p>\n<p>&nbsp;</p>\n<p>If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary. The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat.</p>"
 		},
 		{
 			"id": "Ride (Horse)",
-			"name": "Верховая езда (Horse)",
+			"name": "Верховая езда (Лошадь)",
 			"description": "<p>How proficient you are at riding horses. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test.</p>\n<p>&nbsp;</p>\n<p>If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary. The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat.</p>"
 		},
 		{
 			"id": "Ride (Pegasus)",
-			"name": "Верховая езда (Pegasus)",
+			"name": "Верховая езда (Пегас)",
 			"description": "<p>How proficient you are at riding pegasi. You’ll only need to make a Test when doing something out of the ordinary, such as racing, dressage, traversing dangerous terrain, or charging into combat. Otherwise, if you have at least one Advance in the Skill, you are presumed to be able to ride around without need of a Test.</p>\n<p>&nbsp;</p>\n<p>If mounted on a steed, you move using the steed’s Movement statistic; if you wish to run, jump, or leap, you use your Ride Skill, not Athletics. An extended Ride Test may be needed if you are racing somewhere, the target SL depending on the length of the journey, the number of Tests indicating how long you take to arrive. A Ride Test may be modified by environmental conditions, and the temperament of your mount. For more information on mounts, see Chapter 12: Bestiary. The Ride skill can be used extensively in combat. See Chapter 5: Rules, for more on mounted combat.</p>"
 		},
 		{
@@ -608,32 +608,32 @@
 		},
 		{
 			"id": "Sail ()",
-			"name": "Мореходство ()",
+			"name": "Хождение под парусом ()",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Specializations: </span>Barge, Caravel, Cog, Frigate, Wolfship&nbsp;</p>"
 		},
 		{
 			"id": "Sail (Barge)",
-			"name": "Мореходство (Barge)",
+			"name": "Хождение под парусом (Barge)",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>"
 		},
 		{
 			"id": "Sail (Caravel)",
-			"name": "Мореходство (Caravel)",
+			"name": "Хождение под парусом (Caravel)",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>"
 		},
 		{
 			"id": "Sail (Cog)",
-			"name": "Мореходство (Cog)",
+			"name": "Хождение под парусом (Cog)",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>"
 		},
 		{
 			"id": "Sail (Frigate)",
-			"name": "Мореходство (Frigate)",
+			"name": "Хождение под парусом (Frigate)",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>"
 		},
 		{
 			"id": "Sail (Wolfship)",
-			"name": "Мореходство (Wolfship)",
+			"name": "Хождение под парусом (Wolfship)",
 			"description": "<p>Your ability to operate and maneuver a sailing vessel — including knotwork, steering, gauging the wind, and more. Assuming you have enough trained crew for your vessel, you only use the Sail Skill when you must push your vessel to perform, either by racing, navigating particularly dangerous shoals, struggling against bad weather, or similar difficulties. Simply sailing with a gentle wind, or guiding a ship downriver, doesn’t require a Test for those with Sail. The skill can also be used for sailing-related activities like tying knots, or tying others up in knots. As sailing one ship is not so different to sailing another, having any Sail Specialty makes all other Sail Specialties Basic Skills for you.</p>"
 		},
 		{
@@ -738,7 +738,7 @@
 		},
 		{
 			"id": "Trade (Cook)",
-			"name": "Ремесло (Cook)",
+			"name": "Ремесло (Повар)",
 			"description": "<p>Most folk of the Reikland follow a trade; even adventurers often have a more reliable, or respectable career to fall back on, between bouts of hair-raising, bowel-loosening excitement. The Trade Skill represents your ability to create something or provide a service, as well as your knowledge of the relevant lore surrounding your trade.</p>\n                                                                <p>&nbsp;</p>\n                                                                <p>Having the Skill is enough to automatically perform the tasks associated with your trade, assuming you have the correct resources and tools. You need only Test your Trade Skill if you are seeking to create something quickly, conditions are adverse, or you are seeking to invent or create a high-quality item.</p>\n                                                                <p>&nbsp;</p>\n                                                                <p>Often Trade Tests of this type are extended Test, with the SL and time required depending upon the scope or scale of what is being produced; a quick meal with Trade (Cook) to impress a local lord will take far less time than constructing a warship with Trade (Shipwright).</p>\n                                                                <p>&nbsp;</p>\n                                                                <p>You may also make a Trade Test as a Lore Skill, to determine information relevant to the trade in question. In such circumstances, the GM may prefer to use Int over Dex as the base Characteristic, though often this is ignored to keep play simple.</p>\n                                                                <p>&nbsp;</p>\n                                                                <p>While most Trade Skills have little function in combat, there are as many Trade Skills as there are trades, and some may be of use depending upon the circumstances. For example, a successful Trade (Apothecary) Test may be useful if fighting in an Apothecary’s shop as you identify some astringent chemicals to hurl at your foes.</p>\n                                                                <p>&nbsp;</p>\n                                                                <p>The Trade Skill is also used for enacting a Crafting Endeavor.</p>"
 		},
 		{
