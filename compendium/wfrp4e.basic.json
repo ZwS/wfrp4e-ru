@@ -7,6 +7,11 @@
 			"description": ""
 		},
 		{
+			"id": "Animal Training",
+			"name": "Дрессировка",
+			"description": ""
+		},
+		{
 			"id": "Animal Training ( )",
 			"name": "Дрессировка ( )",
 			"description": ""
@@ -34,6 +39,11 @@
 		{
 			"id": "Animal Training (Pigeon)",
 			"name": "Дрессировка (Голубь)",
+			"description": ""
+		},
+		{
+			"id": "Art",
+			"name": "Искусство",
 			"description": ""
 		},
 		{
@@ -89,6 +99,11 @@
 		{
 			"id": "Bribery",
 			"name": "Подкуп",
+			"description": ""
+		},
+		{
+			"id": "Channelling",
+			"name": "Концентрация",
 			"description": ""
 		},
 		{
@@ -187,6 +202,11 @@
 			"description": ""
 		},
 		{
+			"id": "Entertain",
+			"name": "Артистизм",
+			"description": ""
+		},
+		{
 			"id": "Entertain ()",
 			"name": "Артистизм ()",
 			"description": ""
@@ -244,6 +264,11 @@
 		{
 			"id": "Intuition",
 			"name": "Интуиция",
+			"description": ""
+		},
+		{
+			"id": "Language",
+			"name": "Язык",
 			"description": ""
 		},
 		{
@@ -342,6 +367,11 @@
 			"description": ""
 		},
 		{
+			"id": "Lore",
+			"name": "Знание",
+			"description": ""
+		},
+		{
 			"id": "Lore ()",
 			"name": "Знание ()",
 			"description": ""
@@ -389,6 +419,11 @@
 		{
 			"id": "Lore (Theology)",
 			"name": "Знание (Theology)",
+			"description": ""
+		},
+		{
+			"id": "Melee",
+			"name": "Рукопашное",
 			"description": ""
 		},
 		{
@@ -452,6 +487,11 @@
 			"description": ""
 		},
 		{
+			"id": "Perform",
+			"name": "Исполнение",
+			"description": ""
+		},
+		{
 			"id": "Perform ()",
 			"name": "Исполнение ()",
 			"description": ""
@@ -497,6 +537,11 @@
 			"description": ""
 		},
 		{
+			"id": "Play",
+			"name": "Музицирование",
+			"description": ""
+		},
+		{
 			"id": "Play ()",
 			"name": "Музицирование ()",
 			"description": ""
@@ -529,6 +574,11 @@
 		{
 			"id": "Pray",
 			"name": "Молитва",
+			"description": ""
+		},
+		{
+			"id": "Ranged",
+			"name": "Дальнобойное",
 			"description": ""
 		},
 		{
@@ -582,6 +632,11 @@
 			"description": ""
 		},
 		{
+			"id": "Ride",
+			"name": "Верховая езда",
+			"description": ""
+		},
+		{
 			"id": "Ride ()",
 			"name": "Верховая езда ()",
 			"description": ""
@@ -617,6 +672,11 @@
 			"description": ""
 		},
 		{
+			"id": "Sail",
+			"name": "Хождение под парусом",
+			"description": ""
+		},
+		{
 			"id": "Sail ()",
 			"name": "Хождение под парусом ()",
 			"description": ""
@@ -644,6 +704,11 @@
 		{
 			"id": "Sail (Wolfship)",
 			"name": "Хождение под парусом (Wolfship)",
+			"description": ""
+		},
+		{
+			"id": "Secret Signs",
+			"name": "Тайные знаки",
 			"description": ""
 		},
 		{
@@ -697,6 +762,11 @@
 			"description": ""
 		},
 		{
+			"id": "Stealth",
+			"name": "Скрытность",
+			"description": ""
+		},
+		{
 			"id": "Stealth ()",
 			"name": "Скрытность ()",
 			"description": ""
@@ -724,6 +794,11 @@
 		{
 			"id": "Track",
 			"name": "Выслеживание",
+			"description": ""
+		},
+		{
+			"id": "Trade",
+			"name": "Ремесло",
 			"description": ""
 		},
 		{

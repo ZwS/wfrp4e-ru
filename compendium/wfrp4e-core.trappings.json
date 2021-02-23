@@ -3,11 +3,11 @@
 	"mapping": { 
 		"qualities": {
 		  "path": "data.qualities.value",
-		  "converter": "trapping_proprties"
+		  "converter": "trapping_properties"
 		},
 		"flaws": {
 		  "path": "data.flaws.value",
-		  "converter": "trapping_proprties"
+		  "converter": "trapping_properties"
 		}
 	},
 	"entries": [
