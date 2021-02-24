@@ -2,7 +2,7 @@
 	"label": "Бестиарий",
 	"mapping": {
 		"species": "data.details.species.value",
-		"traits": {
+		"items": {
 			"path": "items",
 			"converter": "npc_traits"
 		},
