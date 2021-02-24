@@ -37,6 +37,11 @@ Hooks.once('init', () => {
                     });
                 }
             },
+            "npc_token": (token) => {
+                const fullBestiary = game.packs.get('wfrp4e-core.bestiary');
+
+                return fullBestiary.translate({name: token});
+            },
             "npc_characteristics": (chars) => {
                 for (let key in chars) {
                     let char = chars[key];
@@ -66,13 +71,20 @@ Hooks.once('init', () => {
 
                     if (originalTrait.type === "trait" && fullTraits.translate) {
                         let translatedTrait = fullTraits.translate({name: parsedTrait.baseName});
-                        originalTrait.name = parsedTrait.tentacles + translatedTrait.name + parsedTrait.special;
+                        originalTrait.name = translatedTrait.name + parsedTrait.special;
+                        if (typeof originalTrait.type !== "undefined") {
+                            originalTrait.name = originalTrait.name.replace('#', parsedTrait.tentacles);
+                        }
                         if (translatedTrait.data && translatedTrait.data.description && translatedTrait.data.description.value) {
                             originalTrait.data.description.value = translatedTrait.data.description.value;
                         }
 
                         if (isNaN(originalTrait.data.specification.value)) { // This is a string, so translate it
-                            originalTrait.data.specification.value = game.i18n.localize(originalTrait.data.specification.value.trim());
+                            let specificationKey = "SPEC." + originalTrait.data.specification.value.trim();
+                            let specification = game.i18n.localize("SPEC." + originalTrait.data.specification.value.trim());
+                            specification = specification !== specificationKey ? specification : originalTrait.data.specification.value.trim();
+
+                            originalTrait.data.specification.value = specification;
                         }
                     } else if (originalTrait.type === "skill" && fullSkills.translate) {
                         let translatedTrait = fullSkills.translate({name: parsedTrait.baseName});
@@ -127,8 +139,8 @@ Hooks.once('init', () => {
         // Process specific Tentacles case
         if (traitName.includes("Tentacles")) {
             let res = /(?<tentacles>\d+)x Tentacles/i.exec(traitName);
-            parsedTrait.baseName = "Tentacles";
-            parsedTrait.tentacles = res.tentacles + "x ";
+            parsedTrait.baseName = "# Tentacles";
+            parsedTrait.tentacles = res.groups.tentacles;
         }
 
         // Process specific skills name with (xxxx) inside

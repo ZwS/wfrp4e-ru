@@ -2,7 +2,7 @@
     "name": "wfrp4e-ru",
     "title": "Warhammer Fantasy Roleplay 4E: Russian Translation",
     "description": "Модуль добавляет русский язык в Warhammer Fantasy Roleplay 4E.",
-    "version": "0.2",
+    "version": "0.2.1",
     "minimumCoreVersion": "0.7.8",
     "compatibleCoreVersion": "0.7.9",
     "author": "ZwS",

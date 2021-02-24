@@ -5,6 +5,10 @@
 		"traits": {
 			"path": "items",
 			"converter": "npc_traits"
+		},
+		"token": {
+			"path": "token.name",
+			"converter": "npc_token"
 		}
 	},
 	"entries": [
