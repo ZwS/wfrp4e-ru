@@ -37,11 +37,6 @@ Hooks.once('init', () => {
                     });
                 }
             },
-            "npc_token": (token) => {
-                const fullBestiary = game.packs.get('wfrp4e-core.bestiary');
-
-                return fullBestiary.translate({name: token});
-            },
             "npc_characteristics": (chars) => {
                 for (let key in chars) {
                     let char = chars[key];
