@@ -58,6 +58,10 @@ Hooks.once('init', () => {
                 return chars;
             },
             "npc_traits": (npcTraits) => {
+                if (!npcTraits) {
+                    return;
+                }
+
                 const fullTraits = game.packs.get('wfrp4e-core.traits') || {};
                 const fullSkills = game.packs.get(compendium === "wfrp4e" ? 'wfrp4e.basic' : 'wfrp4e-core.skills');
                 const fullTalents = game.packs.get('wfrp4e-core.talents') || {};
