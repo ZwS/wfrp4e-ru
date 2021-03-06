@@ -1,10 +1,11 @@
 Hooks.once('ready', () => {
-    patchConstants();
-    patchLanguageSpecificMethods();
+    patchWfrpConfig();
+    patchLanguageDependingMethods();
     loadTables();
 
-    function patchLanguageSpecificMethods() {
+    function patchLanguageDependingMethods() {
         // Patch regex to support not only latin coin names
+        // https://github.com/moo-man/WFRP4e-FoundryVTT/issues/430
         game.wfrp4e.market.parseMoneyTransactionString = function (string) {
             //Regular expression to match any number followed by any abbreviation. Ignore whitespaces
             const expression = /((\d+)\s?(\p{L}+))/ug;
@@ -43,8 +44,43 @@ Hooks.once('ready', () => {
         }
     }
 
-    function patchConstants() {
+    function patchWfrpConfig() {
         const WFRP4E = {};
+
+        // Range Test Modifiers
+        WFRP4E.rangeModifiers = {
+            "Point Blank": "Лёгкая (+40)",
+            "Short Range": "Заурядная (+20)",
+            "Normal": "Серьёзная (+0)",
+            "Long Range": "Трудная (-10)",
+            "Extreme": "Тяжёлая (-30)",
+        }
+
+        // Difficulty Labels
+        WFRP4E.difficultyLabels = {
+            "veasy": "Элементарная (+60)",
+            "easy": "Лёгкая (+40)",
+            "average": "Заурядная (+20)",
+            "challenging": "Серьёзная (+0)",
+            "difficult": "Трудная (-10)",
+            "hard": "Тяжёлая (-20)",
+            "vhard": "Безумная (-30)"
+        }
+
+        WFRP4E.locations = {
+            "head": "Голова",
+            "body": "Туловище",
+            "rArm": "Правая рука",
+            "lArm": "Левая рука",
+            "rLeg": "Правая нога",
+            "lLeg": "Левая нога",
+        }
+
+        WFRP4E.hitLocationTables = {
+            "hitloc": "Стандартная",
+            "snake": "Змееподобная",
+            "spider": "Паукоподобная"
+        }
 
         // Species
         WFRP4E.species = {
@@ -212,7 +248,27 @@ Hooks.once('ready', () => {
             }
         }
 
+        // Should not be translated since otherwise links in compendium will be broken
+        // https://github.com/moo-man/WFRP4e-FoundryVTT/issues/451
+        WFRP4E.PSEUDO_ENTITIES = [
+            "Table",
+            "Condition",
+            "Symptom",
+            "Roll",
+            "Pay",
+            "Credit",
+            "Corruption",
+            "Fear",
+            "Terror"
+        ]
+
         mergeObject(game.wfrp4e.config, WFRP4E);
+
+        // Patching effects
+        game.wfrp4e.config.systemItems.fear.data.test.value = 'Хладнокровие';
+        game.wfrp4e.config.systemItems.unarmed.data.flaws.value = 'Undamaging';
+        game.wfrp4e.config.systemItems.terror.flags.wfrp4e.script =
+            game.wfrp4e.config.systemItems.terror.flags.wfrp4e.script.replace('Cool', 'Хладнокровие');
     }
 
     function loadTables() {
