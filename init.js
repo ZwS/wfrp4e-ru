@@ -1,12 +1,11 @@
-import MarketWfrp4e from "../../systems/wfrp4e/modules/apps/market-wfrp4e.js"
-
 Hooks.once('ready', () => {
     patchConstants();
     patchLanguageSpecificMethods();
+    loadTables();
 
     function patchLanguageSpecificMethods() {
         // Patch regex to support not only latin coin names
-        MarketWfrp4e.parseMoneyTransactionString = function (string) {
+        game.wfrp4e.market.parseMoneyTransactionString = function (string) {
             //Regular expression to match any number followed by any abbreviation. Ignore whitespaces
             const expression = /((\d+)\s?(\p{L}+))/ug;
             let matches = [...string.matchAll(expression)];
@@ -205,6 +204,41 @@ Hooks.once('ready', () => {
             "swelling": "Swelling"
         }
 
+        for (let obj in WFRP4E) {
+            for (let el in WFRP4E[obj]) {
+                if (typeof WFRP4E[obj][el] === "string") {
+                    WFRP4E[obj][el] = game.i18n.localize(WFRP4E[obj][el])
+                }
+            }
+        }
+
         mergeObject(game.wfrp4e.config, WFRP4E);
+    }
+
+    function loadTables() {
+        // load tables from system folder
+        FilePicker.browse("data", "modules/wfrp4e-ru/tables").then(resp => {
+            try {
+                if (resp.error)
+                    throw ""
+                for (var file of resp.files) {
+                    try {
+                        if (!file.includes(".json"))
+                            continue
+                        let filename = file.substring(file.lastIndexOf("/") + 1, file.indexOf(".json"));
+                        fetch(file).then(r => r.json()).then(async records => {
+                            game.wfrp4e.tables[filename] = records;
+                        })
+                    }
+                    catch (error) {
+                        console.error("Error reading " + file + ": " + error)
+                    }
+                }
+            }
+            catch
+            {
+                // Do nothing
+            }
+        })
     }
 });
